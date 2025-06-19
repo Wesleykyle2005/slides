@@ -1,40 +1,860 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Presentación profesional creada con Reveal.js">
+    <meta name="author" content="Tu Nombre">
+    <title>Shopti – Plataforma Digital para Pulperías</title>
+    
+    <!-- Fuentes de Google -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Estilos de Reveal.js -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/black.min.css" id="theme">
+    
+    <!-- Estilos personalizados -->
+    <link rel="stylesheet" href="css/custom.css">
+    
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/plugin/zoom/zoom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/plugin/notes/notes.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/plugin/markdown/markdown.min.js"></script>
+    <script src="js/custom.js" defer></script>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <!-- Clase de animación para la portada -->
+            <!-- 1. Portada -->
+            <section class="slide-fade-down" data-background="#041E42">
+                <h2>Shopti – Plataforma Digital para Pulperías</h1>
+                <div style="margin-top: 30px; width: 100%; margin-left: auto; margin-right: auto;">
+                    <h3 style="font-size: 0.9em; margin-bottom: 15px;">Integrantes:</h3>
+                    <div style="display: grid; grid-template-columns: auto auto; justify-content: space-between; max-width: 1000px; font-size: 0.8em;">
+                        <div style="text-align: left; padding-right: 10px;">
+                            <p style="margin: 5px 0;">Wesley Ruiz</p>
+                            <p style="margin: 5px 0;">Camilo Donis</p>
+                            <p style="margin: 5px 0;">Cristian Acosta</p>
+                            <p style="margin: 5px 0;">Gustavo Mayorga</p>
+                        </div>
+                        <div style="text-align: right;">
+                            <p style="margin: 5px 0; color: #cccccc;">2023-1044U</p>
+                            <p style="margin: 5px 0; color: #cccccc;">2023-0884U</p>
+                            <p style="margin: 5px 0; color: #cccccc;">2023-1010U</p>
+                            <p style="margin: 5px 0; color: #cccccc;">2020-0974U</p>
+                        </div>
+                    </div>
+                    
+                    <p style="margin-top: 15px; font-size: 0.8em;">
+                        <small>Managua, Nicaragua | 10 de junio del 2025</small>
+                    </p>
+                </div>
+            </section>
 
-		<title>reveal.js</title>
+            <!-- 2. Índice -->
+            <section class="slide-zoom-in">
+                <div class="slide-header">
+                    <h2>Contenido</h2>
+                </div>
+                <div class="slide-content">
+                    <ol style="font-size: 0.8em; line-height: 1.6;">
+                    <li>Diagnóstico del mercado</li>
+                    <li>Segmentación e investigación de mercado</li>
+                    <li>Definición del mercado meta</li>
+                    <li>Mezcla de marketing (4P's)</li>
+                    <li>Análisis financiero y rentabilidad</li>
+                    </ol>
+                </div>
+            </section>
 
-		<link rel="stylesheet" href="dist/reset.css">
-		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css">
+            <!-- 5. Análisis PESTEL: Factor Político -->
+            <section class="slide-fade-up">
+                <div class="slide-header">
+                    <h2>Factor Político</h2>
+                </div>
+                <div class="slide-content">
+                    <table style="width: 100%; border-collapse: collapse; font-size: 0.7em;">
+                        <thead>
+                            <tr style="background-color: var(--color-primario); color: white;">
+                                <th style="padding: 12px; text-align: left; width: 30%;">Área</th>
+                                <th style="padding: 12px; text-align: left;">Detalle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr style="border-bottom: 1px solid #ddd;">
+                                <td style="padding: 10px; vertical-align: top; font-weight: bold;">Apoyo Gubernamental</td>
+                                <td style="padding: 10px;">
+                                    <ul style="margin: 0; padding-left: 5px;">
+                                        <li>Apoyo a la digitalización por parte de CI Nicaragua e INATEC</li>
+                                        <li>Programas de incubación y mentoría tecnológica</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr style="border-bottom: 1px solid #ddd;">
+                                <td style="padding: px5; vertical-align: top; font-weight: bold;">Marco Regulatorio</td>
+                                <td style="padding: 5px;">
+                                    <ul style="margin: 0; padding-left: 5px;">
+                                        <li>Regulación del comercio electrónico por el BCN</li>
+                                        <li>Obligación de notificación y registro ante la UAF</li>
+                                        <li>Políticas de inclusión financiera</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            
+                            <tr>
+                                <td style="padding: 10px; vertical-align: top; font-weight: bold;">Oportunidades</td>
+                                <td style="padding: 10px;">
+                                    <ul style="margin: 0; padding-left: 20px;">
+                                        <li>Interoperabilidad con Circuito de Transacciones Móviles</li>
+                                        <li>Colaboración con INATEC para módulos educativos</li>
+                                        <li>Formación regulatoria dentro de la aplicación</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
 
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
-		</div>
+            <!-- 6. Análisis PESTEL: Factor Económico -->
+            <section class="slide-rotate-in">
+                <h2>Factor Económico</h2>
+                <ul style="font-size: 0.7em; line-height: 1.2;">
+                    <li><strong>Canasta básica:</strong> Subió C$459 en 2024 (C$19,800 a C$20,259).</li>
+                    <li><strong>Inflación:</strong> Bajó de 11.59% (2022) a 2.84% (2024), pero salarios mínimos (C$5,950.02–C$10,913.54) no cubren ni la mitad de la canasta.</li>
+                    <li><strong>Sector informal:</strong> Representa el 80% de la fuerza laboral.</li>
+                    
+                    <li><strong>Remesas:</strong> US$1,140.9 millones en el primer trimestre de 2024, influyen en el consumo local.</li>
+                    <li><strong>Oportunidades para Shopti:</strong>
+                        <ul>
+                            <li>Monitoreo en tiempo real de inventarios y precios.</li>
+                            <li>Alertas automáticas de variaciones de precios.</li>
+                            <li>Gráficas de tendencias y rotación de productos.</li>
+                            <li>Módulos de capacitación y análisis de impacto de remesas.</li>
+                            <li>Conexión con cooperativas para reducir costos de adquisición.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
 
-		<script src="dist/reveal.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
+            <!-- 7. Imagen: Variación Mensual Canasta -->
+            <section class="slide-fade-down" style="width: 100%; height: 100vh; display: flex; align-items: center; justify-content: center;">
+                <h3 style="margin: 0 auto; text-align: center;">Variación Mensual de la Canasta Básica</h3>
+                <div style="width: 100%; height: 100%; overflow: hidden;">
+                    <iframe src="static/graficas/grafica_canasta.html" style="width: 100%; height: 100%; border: none;"></iframe>
+                </div>
+            </section>
 
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script>
-	</body>
+            <!-- 8. Análisis PESTEL: Factores Social y Tecnológico -->
+            <section class="slide-fade-down" style="width: 100%; padding: 20px 0; margin: 0;">
+                <h2 style="padding: 0 40px; margin-bottom: 20px;">Factores Sociales</h2>
+                <div style="display: flex; gap: 1px; font-size: 0.5em; width: 100%; padding: 0 20px; box-sizing: border-box; justify-content: center;">
+                    <div style="flex: 1; min-width: 0; max-width: 48%;">
+                        <h3>Factores Clave</h3>
+                        <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; table-layout: fixed;">
+                            <colgroup>
+                                <col style="width: 100%;">
+                            </colgroup>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Baja adopción del comercio electrónico (30% de consumidores lo han usado).</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Preferencia cultural por la interacción directa con vendedores (46%).</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Alta desconfianza hacia negocios digitales, especialmente en pulperías.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Predominio del pago en efectivo (más del 60% de los comerciantes).</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Baja penetración de servicios financieros formales (23% en 2021).</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Alta influencia de recomendaciones locales (62.5% de los comerciantes).</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Brecha generacional: dueños de pulperías (40-60 años) vs. consumidores jóvenes (18-30).</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Penetración limitada de internet (57% en 2021), especialmente en zonas rurales.</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div style="flex: 1; min-width: 0; max-width: 48%;">
+                        <h3>Oportunidades</h3>
+                        <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+                            <colgroup>
+                                <col style="width: 100%;">
+                            </colgroup>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Replicar la inmediatez de las pulperías físicas con una interfaz ágil y transparente.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Implementar funcionalidades como consulta de inventario en tiempo real.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Integrar pagos contra entrega y promociones para incentivar pagos digitales.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Usar programas de referidos aprovechando redes personales y confianza local.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Diseñar una UI intuitiva con tutoriales para dueños de pulperías con baja alfabetización digital.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Aplicar campañas de marketing digital segmentadas para la Generación Z.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Utilizar estrategias de gamificación para captar usuarios jóvenes.</td>
+                            </tr>
+                            <tr>
+                                <td style="border: 1px solid #ddd; padding: 10px 12px; vertical-align: middle; word-wrap: break-word; line-height: 1.4;">• Incorporar análisis de hábitos de consumo para diversificar la oferta local.</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 8. Investigación de Mercado y Segmentación -->
+            <section class="slide-zoom-in">
+                <h2>Investigación de Mercado y Segmentación</h2>
+                <div style="max-height: 70vh; overflow-y: auto; padding: 10px; margin: 0 -20px 0 -10px;">
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-size: 0.6em; color: #000000;">
+                    <!-- Top Left Table -->
+                    <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <h3 style="color: #000000; margin-top: 0;">1. Segmentación Conductual</h3>
+                        <table style="width: 100%; border-collapse: collapse;">
+                            <tr style="border-bottom: 1px solid #ddd;">
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #041E42;">Categoría</th>
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #041E42;">Detalle</th>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Reinversión de ingresos</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">60% reinvierte entre 51%–75%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;" rowspan="3">Uso de tecnología</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">100% tiene smartphone Android</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">100% nunca ha usado redes sociales para el negocio</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">80.82% nunca ha usado herramientas digitales para gestión</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px;">Problemas frecuentes</td>
+                                <td style="padding: 8px;">Desabastecimiento, sumas manuales, productos vencidos</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <!-- Top Right Table -->
+                    <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <h3 style="color: #000000; margin-top: 0;">2. Segmentación Demográfica</h3>
+                        <table style="width: 100%; border-collapse: collapse;">
+                            <tr style="border-bottom: 1px solid #ddd;">
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #008755;">Categoría</th>
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #008755;">Detalle</th>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;" rowspan="3">Edad de los dueños</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">30–45 años: 49.32%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">46–60 años: 24.66%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">18–29, 61–70, 71–80: 26.03% distribuidos</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;" rowspan="3">Ingresos mensuales</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">C$10,000–25,000: 60.27%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">C$25,001–50,000: 30.14%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Más de C$50,000: 9.59%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px;" rowspan="3">Antigüedad del negocio</td>
+                                <td style="padding: 8px;">4–6 años: 61.64%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px;">1–3 años: 24.66%</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px;">7 o más años: 13.7%</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <!-- Bottom Left Table -->
+                    <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <h3 style="color: #000000; margin-top: 0;">3. Segmentación Geográfica</h3>
+                        <table style="width: 100%; border-collapse: collapse;">
+                            <tr style="border-bottom: 1px solid #ddd;">
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #ff8c00;">Categoría</th>
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #ff8c00;">Detalle</th>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Ubicación</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Distrito VII, Managua, Nicaragua</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;" rowspan="2">Acceso a internet</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">73.97% tiene acceso estable</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">26.03% reporta inestabilidad</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px;">Zona</td>
+                                <td style="padding: 8px;">Urbana</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <!-- Bottom Right Table -->
+                    <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <h3 style="color: #000000; margin-top: 0;">4. Segmentación Psicográfica</h3>
+                        <table style="width: 100%; border-collapse: collapse;">
+                            <tr style="border-bottom: 1px solid #ddd;">
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #8a2be2;">Categoría</th>
+                                <th style="text-align: left; padding: 8px; border-bottom: 2px solid #8a2be2;">Detalle</th>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Compatibilidad con tecnología</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">100% considera su estilo de vida compatible</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Comodidad con nuevas tecnologías</td>
+                                <td style="padding: 8px; border-bottom: 1px solid #ddd;">79.45% se siente cómodo o muy cómodo</td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 8px;">Disposición a pagar por una app</td>
+                                <td style="padding: 8px;">94.52% estaría dispuesto</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 11. Producto -->
+            <section class="slide-fade-up" data-background-color="#111111">
+                <h2>Producto</h2>
+                <div style="max-height: 70vh; overflow-y: auto; padding: 10px; margin: 0 -20px 0 -10px;">
+                    <div style="font-size: 0.8em; line-height: 1.6; text-align: left; color: #ffffff;">
+                    <div style="margin-bottom: 20px;">
+                        <h3 style="color: #4CAF50;">Plataforma Shopti</h3>
+                        <p>Solución digital que conecta consumidores con pulperías en Nicaragua, optimizando la interacción comercial y resolviendo problemas operativos clave.</p>
+                    </div>
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
+                        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 8px;">
+                            <h4 style="color: #4CAF50; margin-top: 0;">Producto Básico</h4>
+                            <ul>
+                                <li>Gestión de inventario en tiempo real</li>
+                                <li>Registro preciso de ventas</li>
+                                <li>Control de caducidad de productos</li>
+                                <li>Herramientas financieras básicas</li>
+                            </ul>
+                        </div>
+
+                        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 8px;">
+                            <h4 style="color: #4CAF50; margin-top: 0;">Producto Tangible</h4>
+                            <ul>
+                                <li>Interfaz intuitiva y accesible</li>
+                                <li>Mapa interactivo de pulperías</li>
+                                <li>Análisis de ventas y patrones</li>
+                                <li>Diseño optimizado para conexiones lentas</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div style="background: rgba(76, 175, 80, 0.1); padding: 15px; border-radius: 8px; border-left: 4px solid #4CAF50;">
+                        <h4 style="color: #4CAF50; margin-top: 0;">Producto Aumentado</h4>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
+                            <div>
+                                <ul>
+                                    <li>Soporte técnico personalizado</li>
+                                    <li>Capacitaciones presenciales y virtuales</li>
+                                    <li>Tutoriales integrados paso a paso</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <ul>
+                                    <li>Facturación digital integrada</li>
+                                    <li>Alianzas con proveedores</li>
+                                    <li>Actualizaciones periódicas basadas en feedback</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+                        <img src="static/qr.jpeg" alt="Código QR" style="width: 500px; height: auto; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+                    </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 12. Precio -->
+            <section class="slide-zoom-in" data-background-color="#ffffff">
+                <h2>Precio</h2>
+                <div style="display: flex; flex-direction: column; height: 70vh;">
+                    <div style="flex: 1;">
+                        <ul style="font-size: 0.8em; line-height: 1.6;">
+                            <li><strong>Estrategia flexible:</strong>
+                                <ul>
+                                    <li>Modelo de suscripción mensual o tarifas por uso.</li>
+                                    <li>Precios diferenciados según tamaño y volumen de la pulpería.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Valor agregado:</strong>
+                                <ul>
+                                    <li>Formalización.</li>
+                                    <li>Reducción de pérdidas.</li>
+                                    <li>Acceso a datos de mercado.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Comparación:</strong> Solución más robusta y formal que métodos informales o manuales.</li>
+                        </ul>
+                    </div>
+                    
+                </div>
+            </section>
+
+            <!-- 13. Plaza (Distribución) -->
+            <section class="slide-fade-down" data-background-color="#ff8c00">
+                <h2>Plaza (Distribución)</h2>
+                <ul style="font-size: 0.8em; line-height: 1.6;">
+                    <li><strong>Canales:</strong>
+                        <ul>
+                            <li>Aplicación móvil y web.</li>
+                            <li>Integración con SINPE-WEB y Circuito de Transacciones Móviles.</li>
+                            <li>Alianzas con cooperativas y productores para mejorar la cadena de suministro.</li>
+                            <li>Distribución de tutoriales y soporte técnico remoto.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+
+            <!-- 14. Promoción -->
+            <section class="slide-rotate-in" data-background-color="#ffffff">
+                <h2 style="color: #000000;">Promoción</h2>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; max-height: 70vh; overflow-y: auto; padding: 10px;">
+                    <div style="background: #f5f5f5; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <img src="static/WhatsApp Image 2025-06-09 at 8.57.26 PM.jpeg" alt="WhatsApp Promo 1" style="width: 100%; height: auto; display: block;">
+                    </div>
+                    <div style="background: #f5f5f5; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <img src="static/WhatsApp Image 2025-06-09 at 9.16.18 PM.jpeg" alt="WhatsApp Promo 2" style="width: 100%; height: auto; display: block;">
+                    </div>
+                    <div style="background: #f5f5f5; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <img src="static/WhatsApp Image 2025-06-10 at 7.42.03 AM.jpeg" alt="WhatsApp Promo 3" style="width: 100%; height: auto; display: block;">
+                    </div>
+                    <div style="background: #f5f5f5; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        <img src="static/WhatsApp Image 2025-06-10 at 7.43.23 AM.jpeg" alt="WhatsApp Promo 4" style="width: 100%; height: auto; display: block;">
+                    </div>
+                </div>
+            </section>
+
+            <!-- 15. Análisis Financiero y Rentabilidad -->
+            <section class="slide-zoom-out" data-background-color="#041E42">
+                <h2>Análisis Financiero y Rentabilidad</h2>
+                <div style="font-size: 0.6em; overflow: auto; max-height: 500px;">
+                    <h3>Inversión Inicial</h3>
+                    <table style="width: 100%; margin-bottom: 20px;">
+                        <tr>
+                            <th>Categoría</th>
+                            <th>Subcategoría</th>
+                            <th>Costo (USD)</th>
+                            <th>Costo (C$)</th>
+                        </tr>
+                        <tr>
+                            <td>Mano de Obra</td>
+                            <td>Salarios Programadores (3)</td>
+                            <td>2,400.00</td>
+                            <td>87,898.32</td>
+                        </tr>
+                        <tr>
+                            <td>Equipo de Oficina</td>
+                            <td>Computadoras (3)</td>
+                            <td>1,500.00</td>
+                            <td>54,936.45</td>
+                        </tr>
+                        <tr>
+                            <th colspan="2">Total Inversión Inicial</th>
+                            <th>3,900.00</th>
+                            <th>142,834.77</th>
+                        </tr>
+                    </table>
+
+                    <h3>Costos Mensuales</h3>
+                    <table style="width: 100%;">
+                        <tr>
+                            <th>Categoría</th>
+                            <th>Subcategoría</th>
+                            <th>Costo (USD)</th>
+                            <th>Costo (C$)</th>
+                        </tr>
+                        <tr>
+                            <td>Mano de Obra</td>
+                            <td>Soporte Subcontratado</td>
+                            <td>400.00</td>
+                            <td>14,649.72</td>
+                        </tr>
+                        <tr>
+                            <td>Infraestructura</td>
+                            <td>Hosting (PythonAnywhere)</td>
+                            <td>100.00</td>
+                            <td>3,662.43</td>
+                        </tr>
+                        <tr>
+                            <td>Infraestructura</td>
+                            <td>Dominio (.store)</td>
+                            <td>0.83</td>
+                            <td>30.40</td>
+                        </tr>
+                        <tr>
+                            <td>Infraestructura</td>
+                            <td>Oficina en Managua</td>
+                            <td>250.00</td>
+                            <td>9,156.08</td>
+                        </tr>
+                        <tr>
+                            <td>Promoción</td>
+                            <td>Afiches promocionales</td>
+                            <td>350.00</td>
+                            <td>12,818.51</td>
+                        </tr>
+                        <tr>
+                            <td>Promoción</td>
+                            <td>Publicidad Paga - Facebook Ads</td>
+                            <td>80.00</td>
+                            <td>2,929.94</td>
+                        </tr>
+                        <tr>
+                            <td>Promoción</td>
+                            <td>Publicidad Paga - Google Ads</td>
+                            <td>100.00</td>
+                            <td>3,662.43</td>
+                        </tr>
+                        <tr>
+                            <td>Promoción</td>
+                            <td>Publicidad Paga - YouTube</td>
+                            <td>50.00</td>
+                            <td>1,831.22</td>
+                        </tr>
+                        <tr>
+                            <td>Promoción</td>
+                            <td>Publicidad Paga - Radio</td>
+                            <td>170.00</td>
+                            <td>6,226.13</td>
+                        </tr>
+                        <tr>
+                            <th colspan="2">Total Costos Mensuales</th>
+                            <th>1,500.83</th>
+                            <th>54,966.85</th>
+                        </tr>
+                        <tr>
+                            <th colspan="2">Costos Anuales</th>
+                            <th>18,009.96</th>
+                            <th>659,602.18</th>
+                        </tr>
+                    </table>
+
+                    <h3>Información Adicional</h3>
+                    <table style="width: 100%; margin-top: 20px;">
+                        <tr>
+                            <td>Equipo de oficina</td>
+                            <td>54,997.20</td>
+                        </tr>
+                        <tr>
+                            <td>Valor de rescate</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Vida util (años)</td>
+                            <td>5.00</td>
+                        </tr>
+                        <tr>
+                            <td>Prestamo</td>
+                            <td>582,152.93</td>
+                        </tr>
+                        <tr>
+                            <td>Tasa de interes</td>
+                            <td>12%</td>
+                        </tr>
+                        <tr>
+                            <td>Plazo del prestamo</td>
+                            <td>5</td>
+                        </tr>
+                        <tr>
+                            <td>TMAR</td>
+                            <td>12%</td>
+                        </tr>
+                        <tr>
+                            <td>Tasa impositiva (IR)</td>
+                            <td>30%</td>
+                        </tr>
+                        <tr>
+                            <td>TMAR inflada</td>
+                            <td>12.00%</td>
+                        </tr>
+                    </table>
+
+                    <h3>Depreciación y Valor en Libros</h3>
+                    <table style="width: 100%; margin-top: 20px;">
+                        <tr>
+                            <th>AÑOS</th>
+                            <th>0</th>
+                            <th>1</th>
+                            <th>2</th>
+                            <th>3</th>
+                            <th>4</th>
+                            <th>5</th>
+                        </tr>
+                        <tr>
+                            <td>Suma de los Dígitos</td>
+                            <td>-</td>
+                            <td>18,332.40</td>
+                            <td>14,665.92</td>
+                            <td>10,999.44</td>
+                            <td>7,332.96</td>
+                            <td>3,666.48</td>
+                        </tr>
+                        <tr>
+                            <td>Valor en libros</td>
+                            <td>54,997.20</td>
+                            <td>36,664.80</td>
+                            <td>21,998.88</td>
+                            <td>10,999.44</td>
+                            <td>3,666.48</td>
+                            <td>0.00</td>
+                        </tr>
+                    </table>
+
+                    <h3>Amortización del Préstamo</h3>
+                    <table style="width: 100%; margin-top: 20px;">
+                        <tr>
+                            <th>Años</th>
+                            <th>0</th>
+                            <th>1</th>
+                            <th>2</th>
+                            <th>3</th>
+                            <th>4</th>
+                            <th>5</th>
+                        </tr>
+                        <tr>
+                            <td>Abono al principal</td>
+                            <td>-</td>
+                            <td>91,636.54</td>
+                            <td>102,632.92</td>
+                            <td>114,948.87</td>
+                            <td>128,742.74</td>
+                            <td>144,191.86</td>
+                        </tr>
+                        <tr>
+                            <td>Interés</td>
+                            <td>-</td>
+                            <td>69,858.35</td>
+                            <td>58,861.97</td>
+                            <td>46,546.02</td>
+                            <td>32,752.15</td>
+                            <td>17,303.02</td>
+                        </tr>
+                        <tr>
+                            <td>Cuota</td>
+                            <td>-</td>
+                            <td>161,494.89</td>
+                            <td>161,494.89</td>
+                            <td>161,494.89</td>
+                            <td>161,494.89</td>
+                            <td>161,494.89</td>
+                        </tr>
+                        <tr>
+                            <td>Saldo insoluto</td>
+                            <td>582,152.93</td>
+                            <td>490,516.39</td>
+                            <td>387,883.47</td>
+                            <td>272,934.60</td>
+                            <td>144,191.86</td>
+                            <td>0.00</td>
+                        </tr>
+                    </table>
+
+                    <h3>Flujo de Caja</h3>
+                    <div style="overflow-x: auto;">
+                        <table style="width: 100%; margin-top: 20px; font-size: 0.55em;">
+                            <tr>
+                                <th></th>
+                                <th>0</th>
+                                <th>1</th>
+                                <th>2</th>
+                                <th>3</th>
+                                <th>4</th>
+                                <th>5</th>
+                            </tr>
+                            <tr>
+                                <td>Ingresos</td>
+                                <td>-</td>
+                                <td>250,072.92</td>
+                                <td>629,813.28</td>
+                                <td>1,111,435.20</td>
+                                <td>1,611,581.04</td>
+                                <td>2,037,631.20</td>
+                            </tr>
+                            <tr>
+                                <td>Depreciacion</td>
+                                <td>-</td>
+                                <td>18,332.40</td>
+                                <td>14,665.92</td>
+                                <td>10,999.44</td>
+                                <td>7,332.96</td>
+                                <td>3,666.48</td>
+                            </tr>
+                            <tr>
+                                <td>Intereses</td>
+                                <td>-</td>
+                                <td>69,858.35</td>
+                                <td>58,861.97</td>
+                                <td>46,546.02</td>
+                                <td>32,752.15</td>
+                                <td>17,303.02</td>
+                            </tr>
+                            <tr>
+                                <td>Costos operativos</td>
+                                <td>-</td>
+                                <td>659,602.18</td>
+                                <td>659,602.18</td>
+                                <td>659,602.18</td>
+                                <td>659,602.18</td>
+                                <td>659,602.18</td>
+                            </tr>
+                            <tr>
+                                <td>Utilidad antes de IR</td>
+                                <td>-</td>
+                                <td>-497,720.01</td>
+                                <td>-103,316.78</td>
+                                <td>394,287.57</td>
+                                <td>911,893.75</td>
+                                <td>1,357,059.52</td>
+                            </tr>
+                            <tr>
+                                <td>IR (30%)</td>
+                                <td>-</td>
+                                <td>0.00</td>
+                                <td>0.00</td>
+                                <td>118,286.27</td>
+                                <td>273,568.13</td>
+                                <td>407,117.86</td>
+                            </tr>
+                            <tr>
+                                <td>Utilidad despues del IR</td>
+                                <td>-</td>
+                                <td>-497,720.01</td>
+                                <td>-103,316.78</td>
+                                <td>276,001.30</td>
+                                <td>638,325.63</td>
+                                <td>949,941.66</td>
+                            </tr>
+                            <tr>
+                                <td>Depreciacion</td>
+                                <td>-</td>
+                                <td>18,332.40</td>
+                                <td>14,665.92</td>
+                                <td>10,999.44</td>
+                                <td>7,332.96</td>
+                                <td>3,666.48</td>
+                            </tr>
+                            <tr>
+                                <td>Valor de rescate</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Abono ala deuda</td>
+                                <td>-</td>
+                                <td>91,636.54</td>
+                                <td>102,632.92</td>
+                                <td>114,948.87</td>
+                                <td>128,742.74</td>
+                                <td>144,191.86</td>
+                            </tr>
+                            <tr>
+                                <td>Prestamo</td>
+                                <td>582,152.93</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td>Inversion</td>
+                                <td>142,834.77</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Flujo neto de efectivo</strong></td>
+                                <td><strong>439,318.16</strong></td>
+                                <td><strong>-571,024.15</strong></td>
+                                <td><strong>-191,283.79</strong></td>
+                                <td><strong>172,051.87</strong></td>
+                                <td><strong>516,915.85</strong></td>
+                                <td><strong>809,416.28</strong></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Valor presente neto</strong></td>
+                                <td colspan="6"><strong>687,241.93</strong></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <script>
+        Reveal.initialize({
+            transition: 'slide',
+            backgroundTransition: 'slide',
+            controls: true,
+            progress: true,
+            slideNumber: true,
+            history: true,
+            keyboard: true,
+            overview: true,
+            touch: true,
+            loop: false,
+            rtl: false,
+            fragments: true,
+            embedded: false,
+            help: true,
+            autoSlide: 0,
+            autoSlideStoppable: true,
+            mouseWheel: false,
+            previewLinks: false,
+            transitionSpeed: 'default',
+            viewDistance: 3,
+            parallaxBackgroundImage: '',
+            parallaxBackgroundSize: '2100px 900px',
+            parallaxBackgroundHorizontal: null,
+            parallaxBackgroundVertical: null,
+        });
+    </script>
+</body>
 </html>

@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Canasta Básica</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            height: 100%;
+            overflow: auto;
+        }
+        html {
+            height: 100%;
+        }
+        .container {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 10px;
+            background: white;
+            box-sizing: border-box;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            height: calc(100vh - 100px);
+            min-height: 500px;
+            margin: 10px 0;
+        }
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            background: #f1f1f1;
+            border: 1px solid #ddd;
+            border-bottom: none;
+            margin-right: 5px;
+            border-radius: 5px 5px 0 0;
+        }
+        .tab.active {
+            background: white;
+            border-bottom: 1px solid white;
+            margin-bottom: -1px;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Análisis de la Canasta Básica 2024</h1>
+        
+        <div class="tabs">
+            <div class="tab active" onclick="showTab('variacion')">Variación Mensual</div>
+            <div class="tab" onclick="showTab('categorias')">Por Categorías</div>
+        </div>
+        
+        <div id="variacion-tab" class="tab-content active">
+            <h2>Costo Total y Variación Mensual</h2>
+            <div class="chart-container">
+                <canvas id="graficaVariacion"></canvas>
+            </div>
+            <div class="chart-container" style="height: 300px;">
+                <canvas id="graficaBarras"></canvas>
+            </div>
+        </div>
+        
+        <div id="categorias-tab" class="tab-content">
+            <h2>Análisis por Categorías</h2>
+            <div class="chart-container">
+                <canvas id="graficaCategorias"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Variables globales para almacenar los datos y gráficos
+        let datos = {
+            fechas: [],
+            totales: [],
+            variaciones: [],
+            categorias: {}
+        };
+        
+        let graficaVariacion, graficaBarras, graficaCategorias;
+        
+        // Función para cargar y procesar los datos del JSON
+        async function cargarDatos() {
+            try {
+                const response = await fetch('hojas_agrupadas.json');
+                const jsonData = await response.json();
+                
+                // Ordenar los meses cronológicamente
+                const mesesOrden = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 
+                                  'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+                
+                // Inicializar arrays para los totales de la canasta básica
+                let totalesCanasta = [];
+                let totalesPorCategoria = {};
+                
+                // Procesar cada mes
+                mesesOrden.forEach(mes => {
+                    if (jsonData[mes]) {
+                        // Agregar mes a las fechas (solo primera letra en mayúscula)
+                        datos.fechas.push(mes.charAt(0).toUpperCase() + mes.slice(1));
+                        
+                        // Buscar el total de alimentos
+                        const totalAlimentos = jsonData[mes].totales.find(item => 
+                            item.concepto.toLowerCase().includes('total alimentos')
+                        );
+                        
+                        if (totalAlimentos) {
+                            totalesCanasta.push(totalAlimentos.total);
+                        } else {
+                            console.warn(`No se encontró 'total alimentos' para ${mes}`);
+                            totalesCanasta.push(0); // Push 0 as fallback
+                        }
+                        
+                        // Procesar categorías
+                        if (jsonData[mes].categorias) {
+                            Object.entries(jsonData[mes].categorias).forEach(([categoria, productos]) => {
+                                if (!totalesPorCategoria[categoria]) {
+                                    totalesPorCategoria[categoria] = [];
+                                }
+                                // Calcular total por categoría
+                                const totalCategoria = productos.reduce((sum, producto) => sum + (producto.total || 0), 0);
+                                totalesPorCategoria[categoria].push(totalCategoria);
+                            });
+                        }
+                    }
+                });
+                
+                // Calcular variaciones porcentuales
+                const variaciones = [0]; // La primera variación es 0%
+                for (let i = 1; i < totalesCanasta.length; i++) {
+                    const variacion = ((totalesCanasta[i] - totalesCanasta[i-1]) / totalesCanasta[i-1]) * 100;
+                    variaciones.push(parseFloat(variacion.toFixed(2)));
+                }
+                
+                // Asignar los datos procesados
+                datos.totales = totalesCanasta;
+                datos.variaciones = variaciones;
+                datos.categorias = totalesPorCategoria;
+                
+                // Crear las gráficas una vez que los datos estén listos
+                crearGraficas();
+                
+            } catch (error) {
+                console.error('Error al cargar los datos:', error);
+                alert('Error al cargar los datos. Por favor, asegúrate de que el archivo hojas_agrupadas.json esté en la misma carpeta.');
+            }
+        }
+
+        // Llamar a cargarDatos cuando el documento esté listo
+        document.addEventListener('DOMContentLoaded', cargarDatos);
+        
+        // Función para formatear números con separadores de miles
+        function formatearNumero(numero) {
+            if (typeof numero !== 'number') return '0.00';
+            return numero.toLocaleString('es-GT', { 
+                minimumFractionDigits: 2, 
+                maximumFractionDigits: 2 
+            });
+        }
+
+        // Función para mostrar/ocultar pestañas
+        function showTab(tabName) {
+            // Ocultar todos los contenidos
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            // Desactivar todas las pestañas
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            // Mostrar el contenido de la pestaña seleccionada
+            document.getElementById(`${tabName}-tab`).classList.add('active');
+            // Activar la pestaña seleccionada
+            event.currentTarget.classList.add('active');
+            // Actualizar las gráficas al cambiar de pestaña
+            if (tabName === 'variacion') {
+                if (graficaVariacion) graficaVariacion.update();
+                if (graficaBarras) graficaBarras.update();
+            } else {
+                if (graficaCategorias) graficaCategorias.update();
+            }
+        }
+
+        // Configuración común para todas las gráficas
+        Chart.defaults.font.family = "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+        Chart.defaults.color = '#2c3e50';
+        
+        // Función para crear las gráficas
+        function crearGraficas() {
+            // Gráfica de línea para el costo total
+            const ctx1 = document.getElementById('graficaVariacion').getContext('2d');
+            graficaVariacion = new Chart(ctx1, {
+                type: 'line',
+                data: {
+                    labels: datos.fechas,
+                    datasets: [{
+                        label: 'Costo Total (Q)',
+                        data: datos.totales,
+                        borderColor: '#2e86c1',
+                        backgroundColor: 'rgba(46, 134, 193, 0.1)',
+                        borderWidth: 2,
+                        tension: 0.3,
+                        fill: true,
+                        pointBackgroundColor: '#2e86c1',
+                        pointRadius: 5,
+                        pointHoverRadius: 7
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    layout: {
+                        padding: {
+                            left: 20,
+                            right: 20,
+                            top: 10,
+                            bottom: 10
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: false,
+                            title: {
+                                display: true,
+                                text: 'Costo (Q)'
+                            },
+                            ticks: {
+                                font: {
+                                    size: 14
+                                },
+                                callback: function(value) {
+                                    return 'Q ' + value.toLocaleString('es-GT');
+                                }
+                            }
+                        },
+                        x: {
+                            ticks: {
+                                font: {
+                                    size: 14
+                                }
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return `Q ${formatearNumero(context.raw)}`;
+                                }
+                            }
+                        },
+                        datalabels: {
+                            formatter: function(value) {
+                                return 'Q ' + formatearNumero(value);
+                            },
+                            align: 'top',
+                            offset: 5
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: false,
+                            title: {
+                                display: true,
+                                text: 'Costo (Q)'
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return 'Q ' + value.toLocaleString('es-GT');
+                                }
+                            }
+                        }
+                    }
+                },
+                plugins: [ChartDataLabels]
+            });
+
+            // Gráfica de barras para la variación porcentual
+            const ctx2 = document.getElementById('graficaBarras').getContext('2d');
+            graficaBarras = new Chart(ctx2, {
+                type: 'bar',
+                data: {
+                    labels: datos.fechas,
+                    datasets: [{
+                        label: 'Variación %',
+                        data: datos.variaciones,
+                        backgroundColor: datos.variaciones.map(v => v >= 0 ? 'rgba(231, 76, 60, 0.7)' : 'rgba(46, 204, 113, 0.7)'),
+                        borderColor: datos.variaciones.map(v => v >= 0 ? 'rgba(231, 76, 60, 1)' : 'rgba(46, 204, 113, 1)'),
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return `${context.raw > 0 ? '+' : ''}${context.raw.toFixed(2)}%`;
+                                }
+                            }
+                        },
+                        datalabels: {
+                            formatter: function(value) {
+                                return (value > 0 ? '+' : '') + value.toFixed(2) + '%';
+                            },
+                            anchor: 'end',
+                            align: 'top',
+                            offset: 0,
+                            color: function(context) {
+                                return context.dataset.backgroundColor[context.dataIndex];
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Variación %'
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return value + '%';
+                                }
+                            }
+                        }
+                    }
+                },
+                plugins: [ChartDataLabels]
+            });
+            
+            // Gráfica de líneas para las categorías
+            const ctx3 = document.getElementById('graficaCategorias').getContext('2d');
+            const colores = [
+                'rgba(52, 152, 219, 0.8)',
+                'rgba(155, 89, 182, 0.8)',
+                'rgba(26, 188, 156, 0.8)',
+                'rgba(241, 196, 15, 0.8)',
+                'rgba(230, 126, 34, 0.8)',
+                'rgba(231, 76, 60, 0.8)',
+                'rgba(41, 128, 185, 0.8)',
+                'rgba(142, 68, 173, 0.8)',
+                'rgba(22, 160, 133, 0.8)',
+                'rgba(243, 156, 18, 0.8)'
+            ];
+            
+            const datasets = [];
+            let i = 0;
+            for (const [categoria, valores] of Object.entries(datos.categorias)) {
+                datasets.push({
+                    label: categoria.charAt(0).toUpperCase() + categoria.slice(1), // Primera letra mayúscula
+                    data: valores,
+                    borderColor: colores[i % colores.length],
+                    backgroundColor: colores[i % colores.length].replace('0.8', '0.2'),
+                    borderWidth: 2,
+                    tension: 0.3,
+                    fill: true,
+                    pointRadius: 3,
+                    pointHoverRadius: 5
+                });
+                i++;
+            }
+            
+            graficaCategorias = new Chart(ctx3, {
+                type: 'line',
+                data: {
+                    labels: datos.fechas,
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return `${context.dataset.label}: Q ${formatearNumero(context.raw)}`;
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Costo (Q)'
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return 'Q ' + value.toLocaleString('es-GT');
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

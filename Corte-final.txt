@@ -1,0 +1,1163 @@
+﻿
+
+
+
+
+
+
+
+
+
+Elaborado Por:  				                                  			Tutor:
+Br. Wesley Kyle        Br. Camilo Andrés    Br. Cristian José    Br. Gustavo Adolfo  Ing. Carlos Manuel Ruiz Centeno            Donis Vallejos          Tinoco Acosta	  Estrada Mayorga      Herrera Fuentes
+Carnet: 2023-1044U Carnet: 2023-0884U Carnet: 2023-1010U Carnet: 2020-0974U
+
+     
+
+23 de mayo de 2025 
+Managua, Nicaragua
+
+Contenido
+1. Diagnóstico del mercado	2
+1.1. Análisis del Macroentorno (PESTEL)	3
+2. Segmentación e investigación de mercado	17
+1. Definición del Mercado Meta	17
+3. Mezcla de marketing (4P’s)	37
+3.1. Producto	38
+1. Precio	41
+Promoción	42
+Tabla de Costos Desglosados	43
+4. Análisis financiero y rentabilidad	56
+2. Referencias	60
+6. Anexos	61
+
+
+
+
+
+
+
+
+
+
+
+
+
+    1. Diagnóstico del mercado
+Esta sección presenta el diagnóstico de mercado del proyecto Shopti, una plataforma digital diseñada para fortalecer la conexión entre consumidores y pulperías locales, con el objetivo de evaluar su viabilidad. En un entorno donde las pequeñas tiendas de barrio enfrentan retos como la fluctuación de precios y la limitada adopción de herramientas digitales, Shopti se posiciona como una solución innovadora que optimiza la gestión operativa de las pulperías y mejora la experiencia de compra de los clientes.
+Para este análisis, se utilizó el modelo PESTEL, que examina factores políticos, económicos, sociales, tecnológicos, ecológicos y legales que inciden en el desarrollo del proyecto. 
+        1.1. Análisis del Macroentorno (PESTEL)  
+
+    • Factor Político
+El entorno político en Nicaragua presenta un marco dual para Shopti, una plataforma digital diseñada para conectar consumidores con pulperías locales, combinando oportunidades de apoyo gubernamental con desafíos regulatorios. Este análisis identifica las políticas, regulaciones y dinámicas gubernamentales que influyen en el desarrollo y operación de la plataforma, incluyendo normativas sobre comercio electrónico, incentivos para la digitalización de pequeñas empresas y requisitos legales que afectan la interacción entre pulperías y consumidores.
+El gobierno, a través del Centro de Innovación de Nicaragua (CI Nicaragua) y el Instituto Nacional Tecnológico (INATEC), impulsa la innovación tecnológica y el desarrollo de habilidades digitales. CI Nicaragua, en colaboración con el Consejo Nacional de Universidades, el Ministerio de Educación y otros actores, lidera programas de incubación de startups y eventos tecnológicos que ofrecen a Shopti acceso a redes de mentoría y oportunidades para validar y escalar su modelo. INATEC, por su parte, genera profesionales capacitados en herramientas digitales, quienes pueden contribuir al desarrollo técnico de la plataforma y a la capacitación de dueños de pulperías, reduciendo la brecha digital en el sector.
+El marco regulatorio, liderado por el Banco Central de Nicaragua (BCN), establece requisitos para los proveedores de servicios de pago (PSP), según la Resolución CD-BCN-XXV-1-22. Shopti debe registrarse con el BCN, presentar planes de negocio detallados y cumplir con estándares de seguridad, como la autenticación de dos factores, lo que implica costos iniciales, pero fortalece su credibilidad frente a soluciones informales. Además, el registro obligatorio ante la Unidad de Análisis Financiero (UAF) y la notificación de cambios al BCN generan complejidades administrativas, especialmente para un sector tradicionalmente informal como las pulperías. La integración con el Sistema Interbancario Nicaragüense de Pagos Electrónicos (SINPE-WEB) exige cumplir con estándares técnicos rigurosos, como firewalls compatibles con VPN, un ancho de banda mínimo de 10 Mbps, equipos con procesadores Intel Core i7 y 16 GB de RAM, y planes de contingencia, asegurando transacciones seguras y alineadas con los estándares nacionales
+Las políticas de inclusión financiera facilitan que Shopti opere sin infraestructura bancaria tradicional, un aspecto clave para conectar con pulperías locales. La interoperabilidad con sistemas nacionales de pago, como el Circuito de Transacciones Móviles, amplía el alcance de la plataforma y evita la fragmentación del mercado. Asimismo, la colaboración con iniciativas gubernamentales, como programas de INATEC, ofrece oportunidades para incorporar módulos educativos en la aplicación, guiando a los usuarios en la regulación fintech y transformando los desafíos normativos en ventajas estratégicas. Estas dinámicas posicionan a Shopti para aprovechar el respaldo institucional y navegar el entorno regulatorio, fortaleciendo su viabilidad en el mercado nicaragüense.
+    • Factor Económico 
+El análisis de la canasta básica y la inflación en Nicaragua durante 2024 revela dinámicas económicas que afectan directamente a los pequeños comercios, como las pulperías, y que pueden ser aprovechadas por la plataforma Shopti, diseñada para la gestión de inventarios y el análisis de datos mediante gráficas. El costo de la canasta básica mostró fluctuaciones significativas a lo largo de 2024, con un incremento anual de C$459, pasando de C$19,800 en diciembre de 2023 a C$20,259 en diciembre de 2024, según datos del Instituto Nacional de Información de Desarrollo (INIDE, 2024). Los alimentos, especialmente perecederos como naranjas y papas, fueron los principales responsables de este aumento, representando cerca del 50% de la subida de precios, con incrementos notables en productos como naranjas (de C$560.74 a C$895.16 entre abril de 2023 y 2024) y papas (C$184.80 adicionales en el mismo período) (Confidencial, 2024a). Por otro lado, la inflación anual se redujo a 2.84% en 2024, frente al 11.59% en 2022 y 5.60% en 2023, lo que indica una estabilización macroeconómica. Sin embargo, los salarios mínimos vigentes del 1 de marzo de 2025 al 28 de febrero de 2026, que van desde C$5,950.02 en el sector agropecuario hasta C$10,913.54 en sectores como comercio, restaurantes y hoteles, no cubren ni la mitad del costo de la canasta básica, especialmente en el sector informal, que representa el 80% de la fuerza laboral (Comisión Nacional de Salario Mínimo [CNSM], 2025; Nicaragua Investiga, 2023).
+
+Estas condiciones económicas generan desafíos y oportunidades para las pulperías, que son puntos clave de abastecimiento en barrios nicaragüenses. La volatilidad en los precios de productos agrícolas, como el aumento del 49.67% en el precio del plátano verde desde 2018, y el alza en productos como el queso seco (C$165 adicionales por nueve libras entre abril de 2023 y 2024), dificultan la gestión de inventarios, ya que los dueños de pulperías deben ajustar precios y existencias rápidamente para mantener márgenes de ganancia (Confidencial, 2024a). Además, el poder adquisitivo limitado de los consumidores, con un salario mínimo de C$10,913.54 (US$297.99, considerando un tipo de cambio aproximado de C$36.62 por US$1) en 2025 para el sector de comercio, restaurantes y hoteles, incapaz de cubrir siquiera un tercio de la canasta básica (C$20,560 en mayo de 2024), obliga a las pulperías a priorizar productos de alta rotación, como alimentos básicos, y a gestionar cuidadosamente los inventarios para evitar pérdidas por productos perecederos (CNSM, 2025; Confidencial, 2024a).
+
+Shopti puede capitalizar estas dinámicas al ofrecer herramientas de gestión de inventarios que permitan a los dueños de pulperías monitorear en tiempo real las existencias de productos sensibles a fluctuaciones de precios, como perecederos y alimentos básicos. La plataforma podría integrar alertas automáticas basadas en datos de mercado, como los reportados por INIDE, para notificar incrementos de precios (e.g., el alza de C$17 por litro de aceite en 2024), ayudando a los comerciantes a ajustar sus compras y precios de venta (INIDE, 2024; Confidencial, 2024a). Además, las gráficas generadas por Shopti, como tendencias de precios por categoría (e.g., variaciones de +8.98% en perecederos en junio de 2024) o análisis de rotación de productos, permitirían identificar patrones de consumo y optimizar el surtido, enfocándose en productos de mayor demanda, como frijoles y arroz, que los consumidores priorizan ante la escasez de ingresos (INIDE, 2024).
+
+La dependencia de las remesas, que alcanzaron US$1,140.9 millones en el primer trimestre de 2024, representa otra oportunidad para Shopti (Confidencial, 2024b). Las pulperías pueden beneficiarse de un módulo que analice el impacto de las remesas en el consumo local, permitiendo ajustar inventarios en períodos de mayor flujo de dinero, como la temporada navideña, cuando los precios de carnes y quesos tienden a subir (Confidencial, 2024b). Asimismo, Shopti podría implementar un sistema de predicción basado en las proyecciones de inflación del Banco Central de Nicaragua (BCN), que estima un rango de 3.0-4.0% para 2025, para anticipar variaciones de precios y sugerir estrategias de compra anticipada o negociación con proveedores (Banco Central de Nicaragua, 2024). La plataforma también podría ofrecer módulos de capacitación en línea para dueños de pulperías, abordando estrategias de formalización y valor agregado, como recomendó el economista Manuel Orozco, para mejorar la competitividad frente a supermercados, donde productos como el plátano verde son hasta un 50% más caros (Confidencial, 2024b).
+
+Por otro lado, la propuesta del INDEC de reducir la canasta básica de 53 a 35 productos, enfocándose en alimentos y eliminando categorías como vestuario, podría simplificar la gestión de inventarios para las pulperías, pero también limitar su oferta (Confidencial, 2024a). Shopti podría contrarrestar este desafío integrando un módulo de análisis de hábitos de consumo local, permitiendo a los comerciantes diversificar hacia productos no esenciales pero demandados, como artículos de cuidado personal, cuyos precios también han aumentado (Confidencial, 2024a). La plataforma también podría facilitar la conexión con cooperativas o productores locales para reducir costos de adquisición, especialmente en un contexto donde la producción nacional de papas y naranjas no satisface la demanda, incrementando la dependencia de importaciones (Confidencial, 2024a).
+
+En resumen, Shopti tiene el potencial de transformar la gestión de pulperías al ofrecer herramientas analíticas que mitiguen los efectos de la inflación y la volatilidad de precios, optimicen inventarios y aprovechen tendencias económicas como el flujo de remesas y la estabilización de la inflación. Al proporcionar datos accionables y estrategias adaptadas al contexto económico de Nicaragua, la plataforma puede fortalecer la resiliencia y competitividad de estos comercios esenciales.
+
+    • Factor social
+El comportamiento de consumo en Nicaragua refleja una transición gradual hacia prácticas digitales, aunque las preferencias tradicionales por las pulperías físicas persisten debido a su accesibilidad y rapidez. Según el Departamento de Comercio de EE. UU., aproximadamente el 30% de los consumidores nicaragüenses ha realizado compras en línea, pero el comercio electrónico permanece en una etapa emergente, con tasas de adopción inferiores al promedio latinoamericano (Trade.gov, 2024). Esta preferencia por las pulperías físicas se debe a la experiencia tangible y la inmediatez, aspectos valorados por los consumidores, quienes, según estudios generales, priorizan la interacción directa con los vendedores en un 46% de los casos (Raydiant, 2021). Para la plataforma Shopti, esto implica la necesidad de replicar la inmediatez de las transacciones presenciales mediante una interfaz ágil y fácil de usar, además de educar a los usuarios sobre ventajas diferenciadoras, como la consulta de inventario en tiempo real, una funcionalidad demandada por una mayoría significativa de clientes debido a la necesidad de transparencia en un contexto de baja confianza en el comercio electrónico (Trade.gov, 2024).
+La desconfianza hacia los negocios digitales entre los dueños de pulperías representa un desafío significativo. Más del 60% de los comerciantes prefiere transacciones en efectivo, respaldado por la baja penetración de tarjetas de crédito y débito, con solo el 23% de adultos con acceso a servicios financieros formales en 2021 (Trade.gov, 2024). Esta preferencia se refuerza por la popularidad de servicios de entrega con pago en efectivo, como Pedidos Ya, que facilitan transacciones tradicionales (Trade.gov, 2024). Además, la confianza en recomendaciones locales, reportada por el 62.5% de los comerciantes, subraya la importancia de redes personales en las decisiones comerciales, un rasgo común en contextos culturales similares (Raydiant, 2021). Para abordar esto, Shopti podría integrar opciones de pago contra entrega y, al mismo tiempo, incentivar la adopción de pagos digitales mediante descuentos exclusivos y programas de referidos, aprovechando la confianza en redes locales para fomentar la aceptación de la plataforma.
+En términos demográficos, se observa una brecha generacional que influye en la adopción tecnológica. La mayoría de los dueños de pulperías, con edades entre 40 y 60 años, posee un manejo básico de herramientas digitales, mientras que los consumidores, predominantemente jóvenes de 18 a 30 años, muestran mayor predisposición a adoptar soluciones innovadoras, como lo indica el Pew Research Center, que reporta que la Generación Z es significativamente más receptiva a la tecnología (Pew Research Center, 2021). Esta brecha sugiere que Shopti debe ofrecer una interfaz intuitiva con tutoriales integrados para los dueños, facilitando su adaptación a herramientas digitales, mientras implementa campañas segmentadas en redes sociales y estrategias de gamificación para captar la atención de la audiencia joven, que representa una oportunidad clave para la expansión del comercio electrónico.
+Factores adicionales, como la infraestructura tecnológica, también moldean el comportamiento de consumo. La penetración de internet en Nicaragua es del 57% en 2021, inferior al promedio regional del 76%, lo que limita el acceso al comercio electrónico, especialmente en áreas rurales donde el servicio es poco confiable (International Telecommunication Union [ITU], 2021). Además, el bajo poder adquisitivo, con salarios mínimos que oscilan entre C$5,950.02 en el sector agropecuario y C$10,913.54 en comercio para 2025, restringe el gasto en línea, ya que no cubren ni la mitad de la canasta básica de C$20,259 en diciembre de 2024 (Comisión Nacional de Salario Mínimo [CNSM], 2025; Instituto Nacional de Información de Desarrollo [INIDE], 2024). Culturalmente, la preferencia por la interacción personal y las relaciones comerciales tradicionales refuerza la relevancia de las pulperías físicas, mientras que la ausencia de un marco legal robusto para transacciones en línea, junto con la falta de incentivos públicos, frena el desarrollo del comercio electrónico (Trade.gov, 2024).
+En este contexto, Shopti puede posicionarse como un puente entre las prácticas comerciales tradicionales y la modernidad digital. Al respetar rituales como el uso del efectivo y la confianza en proveedores locales, la plataforma puede ofrecer soluciones que integren estos elementos, como módulos de análisis de hábitos de consumo local para diversificar la oferta hacia productos no esenciales pero demandados, como artículos de cuidado personal (Confidencial, 2024). Además, conectar a los comerciantes con cooperativas o productores locales a través de la plataforma puede reducir costos de adquisición, especialmente en un entorno donde la producción nacional de ciertos productos no satisface la demanda (Confidencial, 2024). Al abordar estas dinámicas sociales y tecnológicas, Shopti puede fortalecer la competitividad de las pulperías, adaptándose a un entorno donde la transición digital es incipiente pero prometedora.
+    • Factor Tecnológico
+El desarrollo de Shopti como solución digital para pulperías nicaragüenses depende críticamente de tres pilares tecnológicos interconectados: la cobertura de internet móvil, la penetración de sistemas operativos en dispositivos móviles y la electrificación como base para la conectividad. Estos elementos no solo determinan la viabilidad técnica del proyecto, sino que definen su alcance real en el territorio nacional, particularmente en la región de Managua donde se concentra una parte significativa del mercado objetivo.
+Cobertura de internet en Managua según TELCOR:
+COOTEL
+Departamento
+Municipio
+Tecnología
+Managua
+Ciudad Sandino
+McWILL
+Managua
+El Crucero
+McWILL
+Managua
+Managua
+McWILL
+Managua
+Mateare
+McWILL
+Managua
+Ticuantepe
+McWILL
+Managua
+Tipitapa
+McWILL
+Managua
+Villa El Carmen
+McWILL
+CLARO:
+Departamento
+Municipio
+Tecnología
+Managua
+Tipitapa
+2G, 3G, 4G
+Managua
+Mateare
+2G, 3G, 4G
+Managua
+Managua
+2G, 3G, 4G
+Managua
+Ticuantepe
+2G, 3G, 4G
+Managua
+El crucero
+2G, 3G, 4G
+Managua
+Ciudad Sandino
+2G, 3G, 4G
+Managua
+San Francisco Libre
+2G, 3G, 4G
+Managua
+San Rafael del Sur
+2G, 3G, 4G
+Managua
+Villa El Carmen
+2G, 3G, 4G
+TIGO:
+Departamento
+Municipio
+Tecnología
+Managua
+Tipitapa
+2G, 3G, 4G
+Managua
+Mateare
+2G, 3G, 4G
+Managua
+Managua
+2G, 3G, 4G
+Managua
+Ticuantepe
+2G, 3G, 4G
+Managua
+El crucero
+2G, 3G, 4G
+Managua
+Ciudad Sandino
+2G, 3G, 4G
+Managua
+San Francisco Libre
+2G, 3G
+Managua
+San Rafael del Sur
+2G, 3G, 4G
+Managua
+Villa El Carmen
+2G, 3G, 4G
+
+
+Mapa de cobertura de internet en Nicaragua según Telcor
+El mapa de cobertura de internet en Managua, complementado con los datos de los operadores Tigo, Claro y Cootel, revela un escenario tecnológico estratificado. Mientras Claro y Tigo brindan cobertura 4G en municipios clave como Tipitapa, Mateare y Managua, Cootel ofrece tecnología McWILL, orientada a zonas periurbanas con necesidades específicas de conectividad fija. Esta diversidad explica parcialmente la percepción del 25% de los dueños de pulperías que reportan inestabilidad en su acceso a internet, especialmente en áreas como San Francisco Libre, donde predominan redes 2G/3G. Como aplicación web desarrollada en Django, Shopti aprovecha la escalabilidad y eficiencia del framework para optimizar el rendimiento incluso en entornos de baja velocidad, priorizando la carga progresiva de contenidos y la gestión de solicitudes en el servidor. A futuro, la integración de estrategias como el almacenamiento en caché avanzado o la priorización de recursos críticos podría reforzar su adaptabilidad, asegurando una experiencia fluida independientemente de las fluctuaciones en la infraestructura local.
+
+Penetración de sistemas operativos móviles
+La penetración de sistemas operativos móviles refuerza el enfoque técnico de Shopti como aplicación web. Según StatCounter (2024), el 80.47% de los nicaragüenses usan Android, cifra que se alinea con el 100% de adopción reportada por los dueños de pulperías. Esta homogeneidad tecnológica simplifica el desarrollo al priorizar un diseño responsive optimizado para navegadores móviles en Android, asegurando compatibilidad con la mayoría de los dispositivos. Aunque el 19.32% de usuarios iOS podría acceder vía navegadores estándar —como Safari—, la arquitectura basada en Django permite una integración fluida con APIs modernas y renderizado dinámico, garantizando funcionalidad completa sin necesidad de aplicaciones nativas. La casi nula presencia de otros sistemas (Linux, Tizen) confirma que invertir en compatibilidad para estos no sería rentable, un hallazgo crítico para asignar recursos de manera eficiente. Además, esta data valida la estrategia de capacitación: al enfocarse en Android, los talleres para pulperos pueden centrarse en el uso del navegador Chrome y las funcionalidades web, reduciendo la curva de aprendizaje y asegurando una adopción ágil.
+
+Los informes de DISNORTE/DISSUR sobre electrificación, con una cobertura nacional del 99.575%, consolidan la base tecnológica para iniciativas como Shopti. Al beneficiar a 3.8 millones de habitantes, estas cifras reflejan una infraestructura eléctrica robusta en zonas urbanas y semiurbanas, garantizando que dispositivos móviles y routers operen de manera estable. Para una aplicación web desarrollada en Django, esto se traduce en un entorno donde los servidores pueden gestionar solicitudes de forma eficiente, aprovechando la disponibilidad casi universal de energía para mantener una conectividad constante. La alta electrificación no solo respalda la operatividad diaria de las pulperías, sino que facilita la escalabilidad de la plataforma, al minimizar riesgos asociados a interrupciones eléctricas en su mercado objetivo principal.
+    • Factor ecológico
+El entorno ecológico en Nicaragua presenta desafíos significativos que afectan a las pulperías, pero también ofrece oportunidades para que plataformas como Shopti, diseñadas para la gestión de inventarios, promuevan prácticas sostenibles. En Nicaragua, problemas ambientales como la contaminación del agua, la deforestación y la mala gestión de residuos impactan a las comunidades y a las pequeñas empresas, incluyendo las pulperías, que enfrentan limitaciones debido a la baja conciencia ecológica entre consumidores y comerciantes, quienes priorizan el precio y la disponibilidad sobre el impacto ambiental (World Bank, 2016). Esta situación se ve agravada por la falta de programas de reciclaje generalizados y la disposición inadecuada de desechos, lo que genera una carga ambiental significativa en el sector comercial (Field Study of the World, 2017). Shopti puede abordar estas problemáticas integrando herramientas que fomenten la sostenibilidad, como la promoción de productos con empaques biodegradables y la optimización de inventarios para reducir el desperdicio de alimentos, un problema crítico en un contexto donde las pulperías manejan márgenes ajustados debido a la inflación (World Bank, 2016).
+
+Las regulaciones ambientales emergentes, aunque limitadas, proporcionan un marco para acciones proactivas. Por ejemplo, la Ordenanza Municipal No. 06-2022 en la Isla de Maíz regula el uso y comercialización de plásticos de un solo uso, promoviendo alternativas sostenibles (Lexology, 2022). Shopti puede alinearse con estas iniciativas al priorizar proveedores que ofrezcan empaques biodegradables, destacándolos en la plataforma mediante etiquetas como “Eco-pulpería” para incentivar su adopción entre los comerciantes. Además, la plataforma puede ofrecer comparativos de costo-beneficio que vinculen la sostenibilidad con ahorros a largo plazo, como la reducción de mermas por productos mal almacenados, un aspecto relevante dado que el desperdicio de alimentos es un desafío persistente en Nicaragua (World Bank, 2016). Estas estrategias no solo cumplen con regulaciones locales, sino que también responden a la creciente sensibilidad ambiental en mercados emergentes, especialmente entre consumidores jóvenes (Field Study of the World, 2017).
+
+En el ámbito operativo, muchas pulperías dependen del papel para pedidos y facturación, lo que representa una ineficiencia ambiental y logística. Shopti puede contrarrestar esta práctica mediante la implementación de facturación digital automatizada y registros electrónicos de inventario, reduciendo el consumo de papel y mejorando la eficiencia operativa (Field Study of the World, 2017). Además, la plataforma puede optimizar la gestión de inventarios para minimizar el desperdicio de alimentos, proporcionando datos precisos sobre niveles de stock y predicciones de demanda basadas en patrones de ventas. Esto es particularmente importante en un contexto donde los precios de productos perecederos, como naranjas y papas, muestran alta volatilidad, afectando la planificación de las pulperías (Confidencial, 2024). Al integrar estas funcionalidades, Shopti no solo contribuye a la sostenibilidad ambiental, sino que también fortalece la competitividad de las pulperías al reducir costos operativos.
+
+Otro factor relevante es la gestión de residuos, un desafío en Nicaragua debido a la falta de infraestructura de reciclaje. Shopti podría incluir módulos informativos sobre cómo reciclar materiales comunes en pulperías, como plásticos y cartones, o facilitar conexiones con servicios locales de recolección de residuos, cuando estén disponibles (Field Study of the World, 2017). Asimismo, promover el uso de bolsas reutilizables entre los consumidores puede alinearse con iniciativas como la ordenanza de la Isla de Maíz, incentivando prácticas sostenibles que refuercen la imagen de las pulperías como negocios responsables (Lexology, 2022). Estas acciones posicionan a Shopti como un puente entre las prácticas comerciales tradicionales y la modernidad sostenible, transformando su percepción de una herramienta transaccional a un socio estratégico en sostenibilidad.
+
+En un contexto donde los factores económicos, como el bajo poder adquisitivo y la inflación, limitan la capacidad de los consumidores y comerciantes para priorizar la sostenibilidad, Shopti puede diferenciarse al vincular prácticas ecológicas con beneficios económicos tangibles (Comisión Nacional de Salario Mínimo [CNSM], 2025). Al implementar estas estrategias, la plataforma no solo responde a los desafíos ambientales, sino que también fomenta la lealtad de los comerciantes y consumidores, consolidando su ventaja competitiva en un mercado donde la transición hacia prácticas sostenibles es incipiente pero prometedora.
+
+    • Factor legal
+El marco legal nicaragüense establece requisitos claros para plataformas digitales como Shopti, diseñadas para la gestión de inventarios en pulperías, centrándose en tres áreas críticas: protección de datos personales, regulación financiera y transparencia mercantil. La Ley No. 787, Ley de Protección de Datos Personales, promulgada en 2012, regula el tratamiento de información sensible, como nombres, direcciones o historiales de compra, exigiendo medidas de seguridad físicas y digitales, así como el consentimiento informado de los usuarios (Asamblea Nacional de Nicaragua, 2012). Para Shopti, esto implica implementar protocolos de cifrado, como TLS para transmisiones seguras, e integrar flujos de consentimiento explícito en su interfaz, garantizando que los dueños de pulperías y sus clientes comprendan el uso de sus datos. Este cumplimiento no solo asegura la conformidad legal, sino que también fomenta la confianza en un contexto donde la adopción de tecnologías digitales es limitada debido a preocupaciones sobre la privacidad (Trade.gov, 2024).
+
+En el ámbito financiero, la Superintendencia de Bancos y Otras Instituciones Financieras (SIBOIF) supervisa los servicios de pago digital, un aspecto relevante si Shopti incorpora monederos virtuales o pasarelas de pago propias (SIBOIF, s.f.). La plataforma debe obtener licencias específicas, como la de Entidad de Dinero Electrónico, lo que requiere auditorías de seguridad, un capital mínimo y reportes periódicos. Además, el Banco Central de Nicaragua (BCN) regula los proveedores de tecnología financiera a través del "Reglamento de los Proveedores de Tecnología Financiera de Servicios de Pago y Proveedores de Servicios de Activos Virtuales", publicado en 2022, que establece requisitos para la autorización y operación de estos servicios (Banco Central de Nicaragua, 2022). Este reglamento exige que las plataformas se registren y cumplan con estándares de seguridad, aunque los bancos que ya ofrecen servicios financieros no requieren licencias adicionales, solo registro. El cumplimiento con estas normativas posiciona a Shopti como un actor confiable, diferenciándola de soluciones informales en un mercado donde la adopción de pagos digitales es incipiente (Trade.gov, 2024).
+
+La transparencia mercantil es otro pilar fundamental, regulado a través del Registro Mercantil, administrado por el Registro Público de Nicaragua (Registro Público de Nicaragua, s.f.). Todas las empresas comerciales deben estar inscritas en este registro, lo que permite verificar su existencia legal y estatus. Para Shopti, esto implica confirmar el registro de proveedores y socios logísticos antes de integrarlos, reduciendo riesgos operativos, como asociaciones con empresas no registradas, y reforzando su reputación como intermediario transparente. Este proceso, que incluye la presentación de documentos como la escritura de constitución certificada por notario público, es esencial para garantizar la legitimidad de las operaciones comerciales en un entorno donde las pulperías dependen de relaciones con proveedores locales (MIFIC, s.f.). Al alinear sus operaciones con estas regulaciones, Shopti no solo cumple con el marco legal, sino que también fortalece la confianza de los comerciantes, un factor crítico para su adopción en el mercado nicaragüense.
+    2. Segmentación e investigación de mercado
+El presente estudio evalúa el mercado de pulperías en el Distrito VII de Managua para fundamentar el desarrollo de Shopti, una aplicación web orientada a optimizar la gestión comercial de estos establecimientos. Con este propósito, se analizan las características demográficas, operativas y tecnológicas de los propietarios, así como su disposición a incorporar herramientas digitales. El Distrito VII se seleccionó por su elevada densidad poblacional —aproximadamente 71 648 habitantes— y por la alta concentración de pulperías en barrios estratégicos, lo cual lo convierte en un segmento idóneo para implementar soluciones de gestión minorista.
+Para ello, se diseñó un estudio exploratorio que aplicó muestreo aleatorio simple a un universo de 297 pulperías, obteniendo una muestra de 73 establecimientos encuestados presencialmente. El instrumento de recolección incluyó variables operativas, económicas, tecnológicas y psicográficas, con el fin de perfilar al propietario, identificar sus necesidades —control de inventarios, registro de ventas y manejo contable— y evaluar los factores que condicionan la adopción de tecnología, tales como el nivel de dominio digital, la motivación y la capacidad de pago. El análisis estructuró la segmentación del mercado meta, valoró la disposición tecnológica (posesión de smartphones, acceso a Internet) y detectó brechas en el uso de herramientas digitales. Los resultados obtenidos aportarán la base empírica necesaria para guiar la planificación estratégica de Shopti y el diseño de funcionalidades alineadas con las demandas reales del sector.
+    1. Definición del Mercado Meta
+Para el estudio de pulperías en Managua, se utilizó como base el Directorio de establecimientos industriales, comerciales y de servicios: Municipio de Managua publicado por el Instituto Nacional de Información de Desarrollo (INIDE) en 2010. Este directorio reporta un total de 11,800 establecimientos clasificados bajo la categoría “Venta al por menor en almacenes no especializados con surtidos compuestos principalmente de alimentos, bebidas y tabaco”, lo que corresponde a la definición operativa de pulperías en Nicaragua. 
+Con el objetivo de optimizar la logística de campo y garantizar la viabilidad del estudio, se delimitó el universo de análisis al Distrito VII de Managua, que cuenta con una población accesible de 297 pulperías. La elección del Distrito VII se fundamentó en su alta densidad poblacional, con aproximadamente 71,648 habitantes según la alcaldía de managua, lo que genera una demanda constante de productos de primera necesidad. Además, el distrito destaca por su potencial comercial, impulsado por una sólida infraestructura vial y la presencia de centros comerciales clave como el Mercado Iván Montenegro, con más de 2,000 pequeños y medianos negocios. Este mercado, conocido por su alta concurrencia, genera un significativo movimiento económico que beneficia a las pulperías locales al atraer consumidores al área. La combinación de estas características, junto con la accesibilidad logística para la realización de encuestas, posiciona al Distrito VII como un segmento estratégico para la adopción de soluciones digitales como Shopti. A partir de esta población, se aplicó un muestreo aleatorio simple para determinar el tamaño de la muestra, resultando en una muestra de 73 pulperías.
+Además de la delimitación geográfica y el tamaño de la muestra, las entrevistas a los 73 dueños de pulperías del Distrito VII revelaron características clave del mercado meta. La mayoría de los propietarios (49.32%) tiene entre 30 y 45 años, con un 61.64% llevando entre 4 y 6 años gestionando su negocio. Aunque el 60.27% reporta ingresos mensuales entre C$10,000 y C$25,000, el 94.52% está dispuesto a pagar por una app útil, y el 79.46% se siente cómodo o muy cómodo con nuevas tecnologías. Además, el 100% posee un smartphone con Android, y el 73.97% cuenta con acceso estable a internet. Estos datos confirman que el mercado meta no solo es accesible geográficamente, sino también demográfica y tecnológicamente apto para adoptar soluciones digitales como Shopti.
+Cálculos Detallados para el Tamaño de Muestra con Muestreo Aleatorio Simple
+El tamaño de la muestra se calculó considerando los siguientes parámetros:
+    • Población (N): 297 pulperías  
+    • Error máximo tolerado (d):   
+    • Nivel de confianza: 95%, correspondiente a un valor crítico z = 1.96  
+    • Proporción estimada (p): 0.5 (máxima variabilidad)  
+    • Complemento (q): 1 - p = 0.5 
+Cálculo del tamaño inicial de muestra  para población infinita:  
+   La fórmula utilizada es:
+   
+   Sustituyendo los valores:  
+   
+    
+   
+   
+   Por lo tanto, 
+2. Verificación de la fracción muestral:  
+   
+   Dado que , se requiere aplicar el factor de corrección por población finita.
+3. Cálculo del tamaño de muestra ajustado n:  
+   La fórmula ajustada es:  
+
+   Sustituyendo: 
+   
+   Redondeando al entero más cercano: n = 73.
+4. Verificación del margen de error con n = 73:  
+   El error estándar (SE) se calcula como:  
+
+ 
+     
+
+    
+   El margen de error es:  
+   
+Este resultado confirma que el tamaño de muestra de 73 pulperías cumple con el error máximo tolerado de 0.10.
+Resultado final: El tamaño de la muestra necesario es 73 pulperías.
+Como observación final, el Directorio de establecimientos industriales, comerciales y de servicios: Municipio de Managua (INIDE, 2010) representa la fuente más completa y accesible al público para identificar pulperías en Managua. No obstante, dado que han transcurrido más de diez años desde su publicación, el número real de pulperías en el Distrito VII podría diferir del estimado de 297 establecimientos. En ausencia de un directorio más reciente disponible públicamente, se asume que esta cifra sigue siendo representativa para los fines del análisis.
+Investigación de Mercado
+La investigación de mercado constituye un paso indispensable para identificar las características, necesidades y oportunidades de los propietarios de pulperías en el Distrito VII de Managua, segmento meta de Shopti. En esta sección se describen las técnicas empleadas, la estructura de la encuesta y los hallazgos más relevantes derivados de las entrevistas, con el propósito de sustentar la estrategia de la plataforma en datos empíricos.
+Metodología de Investigación
+Se adoptó un enfoque exploratorio, diseñado para recopilar datos primarios de manera rigurosa y representativa. En primer lugar, se definió la información crítica necesaria para comprender las operaciones diarias de las pulperías, su comportamiento económico y su nivel de familiaridad tecnológica. A partir de esta definición, se formularon objetivos precisos: conocer las necesidades operativas y tecnológicas de los dueños, evaluar su disposición a adoptar soluciones digitales y determinar las funciones esenciales que Shopti debe ofrecer.
+Para alcanzar estos objetivos, se seleccionó un muestreo aleatorio simple sobre un universo de 297 pulperías, resultando en una muestra de 73 establecimientos. Las encuestas se realizaron de forma presencial, lo que permitió un diálogo directo con los propietarios y la recolección de datos tanto cuantitativos como cualitativos. Este diseño garantiza la validez estadística y la profundidad analítica requeridas para un estudio exploratorio de mercado.
+Procedimiento de Recolección de Datos
+El cuestionario se organizó en categorías temáticas alineadas con los objetivos de la investigación. En la sección operativa y económica se evaluaron el tamaño del equipo de trabajo, los ingresos promedio y los patrones de reinversión. La dimensión demográfica y de experiencia abordó la edad de los propietarios, los años de gestión y su trayectoria en el rubro. En el apartado de adopción tecnológica se incluyeron preguntas sobre el uso de smartphones, la calidad de la conexión a internet y la frecuencia de utilización de aplicaciones móviles. Finalmente, las preguntas abiertas indagaron los principales desafíos operativos y las funcionalidades deseadas en una herramienta digital.
+Los tres integrantes del equipo llevaron a cabo las visitas presenciales a las pulperías, registrando las respuestas en hojas de cálculo. Este método no solo garantizó la precisión en la toma de datos, sino que también permitió realizar ajustes metodológicos en tiempo real para mantener la coherencia y fiabilidad de la información. A continuación, se detalla cada categoría y las preguntas asociadas:
+Aspectos Operativos y Económicos
+Pregunta 1: ¿Cuántas personas atienden habitualmente en la pulpería?
+Propósito: Comprender la escala del negocio y la carga de trabajo del propietario, influyendo en la necesidad de herramientas digitales.
+Resultado Esperado: Comprender el tamaño del equipo de trabajo para evaluar la complejidad operativa y la utilidad de herramientas digitales de gestión.
+Pregunta 2: ¿Cuál es su ingreso mensual promedio en la pulpería?
+Propósito: Evaluar la salud financiera del negocio para determinar capacidad de inversión en Shopti.
+Resultado Esperado: Determinar el nivel de ingresos para evaluar si los dueños pueden permitirse invertir en soluciones digitales como Shopti.
+Pregunta 3: ¿Su ingreso mensual cubre sus necesidades actuales?
+Propósito: Estimar la satisfacción financiera y detectar necesidades de eficiencia.
+Resultado Esperado: Evaluar si los ingresos cubren las necesidades actuales, identificando posibles áreas de mejora en la eficiencia operativa.
+Pregunta 4: ¿Qué porcentaje de su ingreso mensual reinvierte en el negocio?
+Propósito: Comprender el comportamiento de inversión, relacionado con disposición a pagar.
+Resultado Esperado: Comprender cómo los dueños reinvierten sus ingresos, lo que puede indicar su disposición a invertir en nuevas herramientas como Shopti.
+Pregunta 5: ¿Cuál es su horario de atención al público?
+Propósito: Entender las horas operativas para diseñar Shopti.
+Resultado Esperado: Conocer los horarios de atención para diseñar Shopti de manera que se adapte a las necesidades operativas de las pulperías.
+Pregunta 6: ¿Cuánto invierte mensualmente en promoción o publicidad de la pulpería?
+Propósito: Evaluar esfuerzos de marketing actuales.
+Resultado Esperado: Determinar el nivel de inversión en promoción y publicidad para identificar oportunidades de marketing digital con Shopti.
+Pregunta 7: ¿Está al tanto de los permisos y licencias necesarios para operar su pulpería?
+Propósito: Verificar cumplimiento regulatorio, relevante para asociaciones.
+Resultado Esperado: Verificar si los dueños cumplen con los requisitos regulatorios, lo que puede facilitar la integración con plataformas digitales.
+Aspectos Demográficos y de Experiencia:
+Pregunta 8: ¿Cuál es su edad?
+Propósito: Perfil de la edad de los propietarios para entender diferencias generacionales.
+Resultado Esperado: Comprender la distribución de edades para adaptar Shopti a las preferencias y habilidades tecnológicas de los diferentes grupos etarios.
+Pregunta 9: ¿Cuántos años lleva gestionando su pulpería?
+Propósito: Evaluar experiencia en gestión, influyendo en necesidades.
+Resultado Esperado: Determinar la experiencia de los dueños en la gestión de su negocio, lo que puede influir en su receptividad a nuevas herramientas digitales.
+Adopción y Disposición hacia la Tecnología:
+Pregunta 10: ¿Con qué frecuencia dedica tiempo a aprender sobre gestión, finanzas o herramientas digitales?
+Propósito: Medir interés en aprender nuevas herramientas.
+Resultado Esperado: Evaluar el interés y la disposición de los dueños a aprender sobre nuevas tecnologías y herramientas de gestión.
+Pregunta 11: ¿Cree que su estilo de vida es compatible con el uso de tecnología en su negocio?
+Propósito: Evaluar compatibilidad percibida.
+Resultado Esperado: Comprender cómo los dueños perciben la compatibilidad de su estilo de vida con el uso de tecnología en su negocio, lo que puede influir en su adopción de Shopti.
+Pregunta 12: ¿Cómo se siente al usar nuevas tecnologías para administrar su negocio?
+Propósito: Entender comodidad con tecnología.
+Resultado Esperado: Evaluar el nivel de comodidad y confianza de los dueños al usar nuevas tecnologías para la administración de su negocio.
+Pregunta 13: ¿Tiene un teléfono inteligente (smartphone)?
+Propósito: Verificar acceso a smartphones.
+Resultado Esperado: Confirmar si los dueños tienen acceso a smartphones, lo que es crucial para el uso de una aplicación móvil como Shopti.
+Pregunta 14: ¿Qué sistema operativo utiliza en su teléfono?
+Propósito: Determinar plataforma de desarrollo.
+Resultado Esperado: Identificar el sistema operativo más común entre los dueños para priorizar el desarrollo de Shopti en esa plataforma.
+Pregunta 15: ¿Con qué frecuencia utiliza aplicaciones móviles en su vida diaria (fuera del negocio)?
+Propósito: Evaluar familiaridad con apps.
+Resultado Esperado: Medir la familiaridad y frecuencia de uso de aplicaciones móviles por parte de los dueños, lo que indica su comodidad con este tipo de tecnología.
+Pregunta 16: ¿Tiene acceso estable a internet en su pulpería o en casa?
+Propósito: Verificar accesibilidad a internet.
+Resultado Esperado: Determinar si los dueños tienen acceso estable a internet, lo que es necesario para el uso continuo de Shopti.
+Pregunta 17: ¿Utiliza redes sociales para su pulpería?
+Propósito: Ver uso actual de redes sociales.
+Resultado Esperado: Evaluar si los dueños utilizan redes sociales para su negocio, lo que puede indicar oportunidades para integrar características sociales en Shopti.
+Pregunta 18: ¿Ha utilizado antes alguna herramienta digital para inventario, ventas o finanzas?
+Propósito: Evaluar experiencia previa.
+Resultado Esperado: Comprender si los dueños tienen experiencia previa con herramientas digitales para la gestión de su negocio, lo que puede influir en su adopción de Shopti.
+Pregunta 19: ¿Qué tipo de app preferiría?
+Propósito: Entender preferencias por complejidad.
+Resultado Esperado: Identificar las preferencias de los dueños en cuanto a la complejidad y funcionalidad de una aplicación para su negocio.
+Pregunta 20: ¿Estaría dispuesto a pagar una pequeña mensualidad por una app útil?
+Propósito: Medir disposición a pagar.
+Resultado Esperado: Evaluar la disposición de los dueños a pagar por una aplicación útil, lo que es fundamental para el modelo de negocio de Shopti.
+Preguntas Abiertas:
+Pregunta 21: ¿Cuáles son los tres principales problemas que enfrenta en su negocio?
+Propósito: Identificar puntos a solucionar.
+Resultado Esperado: Identificar los principales problemas operativos y de gestión que enfrentan los dueños de pulperías, para que Shopti pueda abordarlos.
+Pregunta 22: ¿Cuáles son las principales categorías de productos que maneja?
+Propósito: Entender el rango de productos.
+Resultado Esperado: Comprender las categorías de productos más comunes en las pulperías, para diseñar funciones de gestión de inventario adecuadas.
+Pregunta 23: ¿Qué funciones serían más útiles en una app para su negocio?
+Propósito: Pedir funciones deseadas.
+Resultado Esperado: Recopilar las funciones y características que los dueños consideran más útiles en una aplicación para su negocio, para incorporarlas en Shopti.
+Diseño de la muestra
+El tamaño de la muestra se estableció mediante un muestreo aleatorio simple aplicado a un universo de 297 pulperías en el Distrito VII de Managua, obteniéndose 73 establecimientos. Este procedimiento asegura una representación estadística adecuada, con un margen de error del 10 % y un nivel de confianza del 95 %.
+Recolección de datos
+La información se recabó de forma presencial, a través de entrevistas directas con los propietarios en sus propios locales. Un equipo de tres encuestadores visitó cada pulpería y registró las respuestas en hojas de cálculo de Excel, distribuyéndose equitativamente las tareas de campo para garantizar uniformidad en la recolección.
+Procesamiento de los datos
+Los registros obtenidos se depuraron y estandarizaron en Excel para corregir inconsistencias y facilitar el conteo cuantitativo. De manera simultánea, se llevó a cabo un análisis cualitativo de las tres preguntas abiertas, identificando patrones recurrentes —como dificultades en la gestión de inventarios y preferencias específicas de funcionalidades— que enriquecen la interpretación de los resultados.
+Análisis de los datos
+Utilizando funciones de Excel, se calcularon frecuencias y porcentajes para las variables cuantitativas, y se generaron gráficos que permiten visualizar de forma clara los hallazgos más relevantes. A continuación, se presentan los resultados obtenidos.
+1. ¿Cuántas personas atienden habitualmente en la pulpería?  
+    • 1 persona: 44 respuestas (60.27%)  
+    • 2–5 personas: 25 respuestas (34.25%)  
+    • 5–9 personas: 4 respuestas (5.48%)  
+2. ¿Cuál es su ingreso mensual promedio en la pulpería?  
+    • C$10,000–C$25,000: 44 respuestas (60.27%)  
+    • C$25,001–C$50,000: 22 respuestas (30.14%)  
+    • Más de C$50,000: 7 respuestas (9.59%)  
+3. ¿Su ingreso mensual cubre sus necesidades actuales?  
+    • Sí, completamente: 58 respuestas (79.45%)  
+    • Parcialmente: 15 respuestas (20.55%)  
+4. ¿Qué porcentaje de su ingreso mensual reinvierte en el negocio?  
+    • Menos del 25%: 8 respuestas (10.96%)  
+    • 25%–50%: 10 respuestas (13.70%)  
+    • 51%–75%: 44 respuestas (60.27%)  
+    • Más del 75%: 11 respuestas (15.07%)  
+5. ¿Cuál es su horario de atención al público?  
+    • Todo el día (mañana y tarde): 73 respuestas (100.00%)  
+6. ¿Cuánto invierte mensualmente en promoción o publicidad de la pulpería?  
+    • Nada: 73 respuestas (100.00%)  
+7. ¿Está al tanto de los permisos y licencias necesarios para operar su pulpería?  
+    • Sí, y las tengo al día: 62 respuestas (84.93%)  
+    • No, desconozco los requisitos: 11 respuestas (15.07%)  
+8. ¿Cuál es su edad?  
+    • 18–29 años: 8 respuestas (10.96%)  
+    • 30–45 años: 36 respuestas (49.32%)  
+    • 46–60 años: 18 respuestas (24.66%)  
+    • 61–70 años: 8 respuestas (10.96%)  
+    • 71–80 años: 3 respuestas (4.11%)  
+9. ¿Cuántos años lleva gestionando su pulpería?  
+    • 1 a 3 años: 18 respuestas (24.66%)  
+    • 4 a 6 años: 45 respuestas (61.64%)  
+    • 7 a 10 años: 7 respuestas (9.59%)  
+    • Más de 10 años: 3 respuestas (4.11%)  
+10. ¿Con qué frecuencia dedica tiempo a aprender sobre gestión, finanzas o herramientas digitales?  
+    • Nunca: 73 respuestas (100.00%)  
+11. ¿Cree que su estilo de vida es compatible con el uso de tecnología en su negocio?  
+    • Algo compatible: 73 respuestas (100.00%)  
+12. ¿Cómo se siente al usar nuevas tecnologías para administrar su negocio?  
+    • Muy cómodo: 22 respuestas (30.14%)  
+    • Algo cómodo: 36 respuestas (49.32%)  
+    • Inseguro: 11 respuestas (15.07%)  
+    • Prefiero no usarlas: 4 respuestas (5.48%)  
+13. ¿Tiene un teléfono inteligente (smartphone)?  
+    • Sí: 73 respuestas (100.00%)  
+14. ¿Qué sistema operativo utiliza en su teléfono?  
+    • Android: 73 respuestas (100.00%)  
+15. ¿Con qué frecuencia utiliza aplicaciones móviles en su vida diaria (fuera del negocio)?  
+    • Todos los días: 18 respuestas (24.66%)  
+    • Varias veces por semana: 55 respuestas (75.34%)  
+16. ¿Tiene acceso estable a internet en su pulpería o en casa?  
+    • Sí, siempre: 54 respuestas (73.97%)  
+    • A veces funciona: 19 respuestas (26.03%)  
+17. ¿Utiliza redes sociales para su pulpería?  
+    • No: 73 respuestas (100.00%)  
+18. ¿Ha utilizado antes alguna herramienta digital para inventario, ventas o finanzas?  
+    • Sí, lo intenté, pero dejé de usarla: 14 respuestas (19.18%)  
+    • No, nunca: 59 respuestas (80.82%)  
+19. ¿Qué tipo de app preferiría?  
+    • Sencilla, con funciones básicas: 26 respuestas (35.62%)  
+    • Completa, aunque tome más tiempo aprenderla: 47 respuestas (64.38%)  
+20. ¿Estaría dispuesto a pagar una pequeña mensualidad por una app útil?  
+    • Sí: 69 respuestas (94.52%)  
+    • No: 4 respuestas (5.48%)  
+21. ¿Cuáles son los tres principales problemas que enfrenta en su negocio?  
+    • Principales identificados: Quedarse sin inventario, tardarse en calcular la suma de productos a vender, pérdida de inventario por caducidad  
+22. ¿Cuáles son las principales categorías de productos que maneja?  
+    • Principales identificados: Abarrotes, bebidas, higiene y limpieza, snacks y golosinas  
+23. ¿Qué funciones serían más útiles en una app para su negocio?  
+    • Principales identificados: Control de inventario, registro de ventas, estadísticas y reportes
+Hallazgos Claves de la Investigación de Mercado
+Basados en la investigación de mercado realizada en el Distrito VII de Managua, se han identificado los siguientes hallazgos clave que son fundamentales para la estrategia de Shopti. Estos hallazgos se derivan de los datos recolectados mediante encuestas a 73 dueños de pulperías, seleccionados mediante muestreo aleatorio simple, y reflejan las necesidades operativas, tecnológicas y económicas del mercado objetivo, así como su disposición hacia soluciones digitales.
+Necesidades Operativas y Tecnológicas
+La investigación revela que los dueños de pulperías enfrentan desafíos significativos en la gestión diaria de sus negocios. Entre los problemas más comunes se encuentran quedarse sin inventario, tardarse en calcular la suma de productos a vender y la pérdida de inventario debido a caducidad. Estos hallazgos destacan la necesidad urgente de herramientas digitales que optimicen la gestión de inventarios y agilicen las operaciones, como sistemas de control de stock en tiempo real y registro eficiente de ventas. Además, las pulperías manejan principalmente categorías de productos como abarrotes, bebidas, higiene y limpieza, snacks y golosinas, lo que sugiere que cualquier solución tecnológica debe ser flexible para gestionar estas variedades. Los dueños también identificaron como funciones deseadas el control de inventario, el registro de ventas y la generación de estadísticas y reportes, lo que alinea directamente con las capacidades que Shopti puede ofrecer para mejorar su eficiencia operativa.
+Adopción y Disposición hacia la Tecnología
+En cuanto a la disposición tecnológica, todos los encuestados poseen un smartphone con sistema operativo Android, lo que facilita la implementación de una aplicación móvil como Shopti. La mayoría utiliza aplicaciones móviles en su vida diaria, ya sea todos los días (24.66%) o varias veces por semana (75.34%), lo que indica una familiaridad básica con este tipo de herramientas. Sin embargo, el 80.82% nunca ha utilizado herramientas digitales para inventario, ventas o finanzas, mientras que el 19.18% lo intentó, pero dejó de usarlas, lo que revela una brecha significativa en la adopción de soluciones digitales para el negocio. A pesar de esto, el 79.46% se siente cómodo o muy cómodo usando nuevas tecnologías para administrar su negocio, desglosándose en un 30.14% muy cómodo y un 49.32% algo cómodo, mientras que el 15.07% se siente inseguro y el 5.48% prefiere no usarlas. Este dato sugiere un mercado receptivo, pero con un segmento que podría requerir capacitación adicional. Además, el 100% considera que su estilo de vida es algo compatible con el uso de tecnología, y el 100% nunca dedica tiempo a aprender sobre gestión, finanzas o herramientas digitales, lo que implica que Shopti debe ser intuitiva y posiblemente incluir recursos educativos para facilitar su adopción.
+Potencial de Mercado y Disposición a Invertir
+Los hallazgos también muestran un fuerte potencial de mercado para Shopti, especialmente en términos de disposición económica. El 94.52% de los encuestados estaría dispuesto a pagar una pequeña mensualidad por una aplicación útil, lo que valida el modelo de negocio basado en suscripción y sugiere que los dueños de pulperías valoran soluciones que puedan mejorar su eficiencia y rentabilidad. En cuanto a las preferencias, el 64.38% prefiere una aplicación completa, aunque tome más tiempo aprenderla, frente al 35.62% que opta por una versión sencilla con funciones básicas, indicando que los usuarios priorizan funcionalidad sobre simplicidad. Esto sugiere que están dispuestos a invertir tiempo en una herramienta robusta si esta satisface sus necesidades. Además, el 60.27% reinvierte entre el 51% y el 75% de sus ingresos en el negocio, lo que refleja un compromiso con el crecimiento y una disposición potencial a invertir en herramientas que optimicen sus operaciones.
+Perfil del Mercado Objetivo
+El perfil del mercado objetivo revela que la mayoría de las pulperías en el Distrito VII son pequeñas y operadas de manera individual. El 60.27% es atendido por una sola persona, lo que indica una alta carga operativa y la necesidad de herramientas que simplifiquen las tareas diarias. En términos de ingresos, el 60.27% reporta ganancias mensuales entre C$10,000 y C$25,000, y el 79.45% considera que sus ingresos cubren completamente sus necesidades actuales, mientras que el 20.55% lo cubre parcialmente, sugiriendo estabilidad relativa, pero con espacio para mejoras en eficiencia. En cuanto a la experiencia, el 61.64% lleva entre 4 y 6 años gestionando su pulpería, lo que indica un grupo de propietarios con experiencia estable pero potencialmente abierto a innovaciones que mejoren su negocio. La edad de los dueños también es relevante, con el 49.32% entre 30 y 45 años, un grupo laboral activo y potencialmente más receptivo a la tecnología.
+Accesibilidad y Conectividad
+En términos de infraestructura tecnológica, el 73.97% tiene acceso estable a internet en su pulpería o en casa, mientras que el 26.03% enfrenta conectividad intermitente, lo que sugiere que Shopti debe incluir funcionalidades offline para garantizar su utilidad en todas las condiciones. Además, el 100% no utiliza redes sociales para su negocio, lo que representa una oportunidad para que Shopti incorpore características que ayuden a promover las pulperías digitalmente, aumentando su visibilidad en un entorno competitivo.
+Factores que Influyen en la Decisión de Compra
+La decisión de los dueños de pulperías en el Distrito VII de Managua de adoptar una solución digital como Shopti está influenciada por factores culturales, sociales, personales y psicológicos. A continuación, se analizan estos factores con base en los datos recolectados de 73 encuestados y el contexto del mercado objetivo, destacando cómo impactan en la disposición a incorporar una herramienta tecnológica para la gestión de sus negocios. 
+Análisis Cultural
+La cultura empresarial de los pequeños negocios nicaragüenses se funda en la practicidad de métodos tradicionales, como el uso de cuadernos para llevar el control de ventas, aunque actualmente evidencia una apertura creciente hacia soluciones digitales. Ninguno de los encuestados dedica tiempo a capacitarse en herramientas tecnológicas, lo que denota una arraigada confianza en prácticas convencionales. No obstante, el 94,52 % de los propietarios está dispuesto a pagar por una aplicación útil y el 79,46 % se siente cómodo utilizándola (30,14 % muy cómodos y 49,32 % algo cómodos), lo que sugiere un proceso de modernización cultural. En el Distrito VII, donde operan 297 pulperías entre 71 648 habitantes, la competencia intensa del Mercado Iván Montenegro, con más de 2 000 negocios, impulsa la búsqueda de ventajas competitivas. Además, la penetración de smartphones en áreas urbanas supera el 80 %, lo que refuerza la viabilidad de Shopti siempre que la plataforma ofrezca beneficios concretos—por ejemplo, la reducción de pérdidas por caducidad—y se ajuste a los valores de eficiencia y practicidad propios del sector.
+Análisis Social
+En el Distrito VII, las interacciones presenciales entre comerciantes constituyen un pilar esencial: con 71 648 habitantes y alrededor de 2 000 negocios en el Mercado Iván Montenegro (INIDE, 2010), el intercambio cara a cara predomina sobre las redes sociales, que ningún encuestado utiliza para su pulpería. La disposición al pago por una aplicación (94,52 %) y la preferencia por una versión completa (64,38 %) revelan una fuerte motivación social para diferenciarse en un mercado tan competitivo. Según CEPAL (2022), las recomendaciones de colegas influyen en el 60 % de las decisiones de compra en microempresas de la región; de este modo, el éxito de Shopti en una pulpería local podría generar un efecto de red, especialmente si se difunden casos de éxito que demuestren mejoras tangibles en la gestión de inventarios o el incremento de ventas.
+Análisis Personal
+Los factores personales —edad, nivel de ingresos y trayectoria profesional— determinan en gran medida la disposición de los propietarios de pulperías a adoptar soluciones digitales. Casi la mitad de los encuestados (49,32 %) tiene entre 30 y 45 años, grupo demográfico que, según Informe Digital (2023), muestra una mayor propensión a utilizar tecnología por su familiaridad con dispositivos móviles. Asimismo, un 60,27 % registra ingresos mensuales entre C$ 10 000 y C$ 25 000, de los cuales el 79,45 % cubre íntegramente sus necesidades básicas y el 20,55 % lo hace de manera parcial, lo que impulsa la búsqueda de herramientas que optimicen procesos y reduzcan costos. Ese mismo 60,27 % gestiona el negocio de forma unipersonal y, dado que el 100 % atiende durante toda la jornada, enfrenta una carga operativa elevada que Shopti puede aliviar. Además, el 84,93 % cumple rigurosamente con los permisos municipales (INIDE, 2010), lo cual refleja un nivel de profesionalismo favorable para la incorporación de innovaciones. En virtud de estas características y considerando las 297 pulperías del Distrito VII, Shopti debe ofrecer una plataforma asequible, intuitiva y orientada a disminuir la complejidad operativa de sus usuarios.
+Análisis Psicológico
+La resolución de problemas operativos —como el control de inventarios y la prevención de caducidad— constituye el principal motor de la adopción tecnológica. Aunque el 79,46 % de los encuestados se siente cómodo con la tecnología, un 15,07 % admite inseguridad y el 5,48 % se muestra reacio, lo que evidencia la necesidad de una interfaz intuitiva. Además, el 80,82 % nunca ha utilizado herramientas digitales en su negocio, una barrera psicológica común en las microempresas de la región. Según CEPAL (2022), esta resistencia se explica por la baja alfabetización digital, la falta de capacitación y la percepción de complejidad de las soluciones tecnológicas. En el Distrito VII, donde ningún propietario dedica tiempo a formarse en estas herramientas, esta limitación se presenta a la vez como desafío y oportunidad para Shopti. Pese a ello, el 75,34 % utiliza aplicaciones móviles varias veces a la semana, lo que demuestra una familiaridad que puede aprovecharse; asimismo, el 94,52 % está dispuesto a pagar por una plataforma y el 64,38 % prefiere una versión completa, siempre que resulte accesible. La existencia de un 26,03 % con acceso intermitente a Internet subraya la importancia de habilitar funciones offline. Por tanto, Shopti debería integrar recursos educativos y soporte técnico local para superar las barreras psicológicas y garantizar una adopción efectiva.
+Conclusiones
+El estudio demostró que las pulperías del Distrito VII de Managua son, en su mayoría, negocios unipersonales gestionados por emprendedores con experiencia moderada. Cerca del 60 % de estos establecimientos es atendido por una sola persona y más del 61 % de los propietarios lleva entre cuatro y seis años administrando su negocio. En cuanto al perfil económico, la mayoría obtiene ingresos mensuales entre C$ 10 000 y C$ 25 000 que, en casi ocho de cada diez casos, cubren sus necesidades básicas. Además, casi la mitad de los dueños (49 %) tiene entre 30 y 45 años, lo que sitúa a este segmento en un rango de edad proclive a incorporar innovaciones tecnológicas. Este perfil revela un mercado con trayectoria estable y, al mismo tiempo, abierto a herramientas digitales que faciliten la gestión diaria, como el control de inventarios y la generación de reportes financieros.
+Aunque el 100 % de los encuestados posee un teléfono inteligente Android y más del 70 % dispone de conexión estable a internet, la adopción de soluciones digitales en la gestión de ventas e inventarios sigue siendo incipiente: aproximadamente ocho de cada diez nunca han utilizado este tipo de herramientas. No obstante, la actitud hacia la tecnología resulta mayoritariamente favorable: el 79,5 % se siente cómodo o muy cómodo al usar nuevas aplicaciones y el 94,5 % aceptaría pagar una suscripción mensual por una plataforma que responda a sus necesidades. Asimismo, más de dos tercios prefieren una versión completa de la aplicación aun cuando implique un tiempo de aprendizaje mayor, lo que indica que la funcionalidad tiene más peso que la simplicidad. Estos datos confirman la existencia de un mercado receptivo, siempre que la solución propuesta sea intuitiva, adaptada al contexto operativo de las pulperías e incluya recursos de soporte y capacitación.
+En función de estos hallazgos, Shopti debe centrarse en tres líneas estratégicas: primero, desarrollar funcionalidades esenciales para la gestión de inventarios y ventas que generen valor inmediato; segundo, incorporar módulos de ayuda interactiva—como tutoriales integrados y soporte local—para reducir la resistencia y facilitar el aprendizaje; y tercero, validar tempranamente un prototipo mediante pruebas piloto con usuarios reales, de modo que cada iteración responda a las necesidades específicas del sector y refuerce la competitividad de las pulperías en el Distrito VII.
+    3. Mezcla de marketing (4P’s)
+En un contexto donde la digitalización transforma los modelos de negocio, las pulperías de Nicaragua enfrentan el reto de modernizar sus operaciones para seguir siendo un pilar esencial del comercio local. Shopti se presenta como una solución innovadora y accesible, diseñada para conectar a consumidores con pulperías mediante una plataforma digital que optimiza la gestión operativa y mejora la experiencia de compra. Con herramientas prácticas como el control de inventarios, el registro de ventas y un mapa interactivo, Shopti responde a la necesidad de eficiencia en un mercado donde el 80.82% de los dueños aún depende de métodos manuales, según encuestas recientes. Este documento explora en detalle el producto, desde sus funcionalidades básicas hasta sus servicios aumentados, así como la estrategia de precios basada en un costo competitivo de C$627.64 mensuales, los canales de distribución mixtos (directos e indirectos) y un plan de promoción que incluye publicidad digital, tradicional y marketing directo. Dirigido inicialmente al Distrito VII de Managua, Shopti busca posicionarse como un aliado estratégico para los microempresarios que desean reducir pérdidas y aumentar sus ingresos en un entorno cada vez más competitivo.
+
+        3.1. Producto
+
+Producto Básico
+
+Shopti es una plataforma digital diseñada para conectar a consumidores con pulperías locales en Nicaragua, optimizando la interacción entre ambos. Para los dueños de pulperías, es una herramienta esencial que resuelve problemas operativos clave, como el control eficiente de inventarios, el registro preciso de ventas, la reducción de pérdidas por caducidad y el acceso a herramientas financieras básicas, eliminando la dependencia de métodos manuales como cuadernos o registros improvisados, que suelen generar errores y retrasos. Para los clientes, mejora la experiencia de compra al ofrecer acceso a información actualizada sobre productos disponibles, precios y ubicaciones, resolviendo la frustración de visitar una tienda sin saber si encontrarán lo que buscan. Este enfoque responde a una necesidad real en comunidades donde las pulperías son un pilar del comercio local, pero carecen de herramientas tecnológicas para competir en un entorno cada vez más digitalizado.
+
+Producto Tangible
+
+El producto tangible de Shopti incluye las características funcionales con las que los usuarios interactúan directamente: 
+    • Interfaz de usuario: Diseñada para ser simple y accesible, permite a los dueños de pulperías gestionar su negocio sin necesidad de conocimientos técnicos avanzados, mientras que los consumidores pueden navegarla fácilmente desde sus teléfonos. Por ejemplo, un dueño puede actualizar su inventario en minutos, y un cliente puede buscar productos con pocos clics.
+    • Sistema de gestión de inventarios: Permite registrar productos, monitorear existencias y recibir alertas cuando el stock está bajo, lo que reduce pérdidas por desabastecimiento o exceso de mercancía.
+    • Mapa interactivo: Utiliza tecnología de geolocalización para mostrar pulperías cercanas, incluyendo detalles como horarios y distancia, lo que ahorra tiempo a los consumidores y aumenta la visibilidad de los negocios locales.
+    • Herramientas de análisis de ventas: Generan reportes sobre productos más vendidos y patrones de compra, ayudando a los dueños a planificar sus pedidos a proveedores con mayor precisión.
+Estas funcionalidades son el "corazón" de Shopti, haciendo que la plataforma sea práctica y efectiva para sus usuarios.
+
+Producto Aumentado
+
+Shopti va más allá de lo básico al ofrecer servicios complementarios que enriquecen la experiencia y priorizan la funcionalidad, diseñada para dueños de pulperías que valoran una solución completa, aunque requiera mayor tiempo de aprendizaje. Incluye:
+    • Soporte técnico personalizado: Asistencia presencial y virtual vía chat o teléfono para resolver problemas como errores en la plataforma o dudas sobre su uso.
+    • Capacitaciones: Talleres presenciales y virtuales, junto con tutoriales integrados en la app, que facilitan la adopción al enseñar a los dueños cómo maximizar la herramienta, especialmente para aquellos con poca experiencia digital.
+    • Tutoriales: Videos y guías paso a paso para tareas comunes, como agregar productos al inventario o interpretar reportes de ventas, accesibles desde la plataforma.
+    • Actualizaciones periódicas: Nuevas funcionalidades basadas en feedback de usuarios, como mejoras en el diseño o integración con aplicaciones populares en Nicaragua, como WhatsApp.
+    • Facturación digital: Simplifica la emisión y gestión de facturas electrónicas.
+    • Alianzas con proveedores: Descuentos exclusivos para la reposición de inventario.
+    • Optimización técnica: Diseñada para conexiones lentas (McWILL) y respaldada por almacenamiento en servidores seguros en la nube.
+Estos elementos aseguran que Shopti no solo sea una herramienta funcional, sino una solución integral que evoluciona con las necesidades de sus usuarios, adaptándose a las dinámicas del comercio local en Nicaragua.
+
+
+
+
+
+    1. Precio
+Shopti es una plataforma digital diseñada como un servicio industrial (SaaS) para optimizar la gestión operativa de pulperías en Nicaragua, específicamente en el Distrito VII de Managua. Este análisis detalla el desglose de costos de producción, aplica dos métodos de fijación de precios (basado en costos y basado en la competencia), evalúa la rentabilidad del proyecto y propone un precio final de C$627.64/mes por suscriptor, con 187 suscriptores esperados. La información se basa en los datos proporcionados, ajustada con valores verificados para promoción y alineada con las necesidades del mercado meta, donde el 80.82% de los dueños de pulperías no usa herramientas digitales, según encuestas.
+
+Desglose de Costos de Producción
+
+Los costos de producción de Shopti se dividen en tres categorías principales: mano de obra, infraestructura y promoción. No se consideran costos de materia prima, ya que Shopti es un servicio digital. Los costos de distribución son mínimos, cubiertos por la plataforma digital y alianzas logísticas. A continuación, se detalla cada categoría, convertida a córdobas nicaragüenses (C$) usando el tipo de cambio de 1 USD = 36.6243 NIO.
+
+Mano de Obra
+
+Salarios de Programadores: 3 programadores a $800 USD/mes cada uno. 
+Costo mensual: 3 × $800 = $2,400 USD.
+En C$: $2,400 × 36.6243 = C$87898.32.
+Soporte Subcontratado: $400 USD/mes para soporte técnico externo. 
+En C$: $400 × 36.6243 = C$14,649.72.
+Total, Mano de Obra: C$87,898.32. + C$14,696.80 = C$102,548.04/mes.
+
+Infraestructura
+
+Hosting (PythonAnywhere): $100 USD/mes para servidores. 
+En C$: $100 × 36.6243 = C$3662.43.
+Dominio (. store): $10 USD/año ÷ 12 ≈ $0.83 USD/mes. 
+En C$: $0.83 × 36.6243 = C$30.39.
+Oficina en Managua: $250 USD/mes para espacio físico. 
+En C$: $250 × 36.6243 = C$9,156.07.
+Total infraestructura: C$3,662.43 + C$30.52 + C$9,156.08 = C$12,848.90/mes.
+Promoción
+Impresión de afiches promocionales: 1000 unidades desde $0.35 cada una según precios de sanbenito530. 
+    • 350 x 36.6243= 12818.50
+Publicidad Paga: 
+• Facebook Ads: 1,000 clics × 0.08 USD = 80 USD. 
+En córdobas: 80 × 36.6243 = C$ 2,929.94
+• Google Ads: 1,000 clics × 0.10 USD = 100 USD. 
+En córdobas: 100 × 36.6243 = C$ 3,662.43
+• YouTube Ads: 10,000 impresiones × (5 USD ÷ 1,000) = 50 USD. 
+En córdobas: 50 × 36.6243 = C$ 1,831.22
+• Radio (Radio Corporación): 10 cuñas × 17 USD = 170 USD.
+En córdobas: 170 × 36.6243 = C$ 6,226.13
+(17 USD por cuña estándar de 30 segundos)
+Total Publicidad Paga Final:
+C$ 2,929.94 + C$ 3,662.43 + C$ 1,831.22 + C$ 6,226.13 = C$ 14,649.72
+Total promoción: 27468.22
+Total Costos:
+
+Mano de Obra: C$102,548.04.
+Infraestructura: C$12,848.90.
+Promoción: C$27468.22.
+Total Mensual: 142,865.16
+
+Tabla de Costos Desglosados
+Categoría
+Subcategoría
+Costo (USD)
+Costo (C$)
+Mano de Obra
+Salarios Programadores
+2,400.00
+87898.32
+
+Soporte Subcontratado
+400.00
+14,649.72
+Infraestructura
+Hosting (PythonAnywhere)
+100.00
+3,662.43
+
+Dominio (.store)
+0.83
+30.39
+
+Oficina en Managua
+250.00
+9,156.07
+Promoción
+Afiches promocionales
+350.00
+12818.50
+
+Publicidad Paga - Facebook Ads
+80.00
+2929.94
+
+Publicidad Paga - Google Ads
+100.00
+3,662.43
+
+Publicidad Paga - YouTube
+50.00
+1,831.21
+
+Publicidad Paga - Radio
+170.00
+6226.13
+Total mensual
+
+3,900
+142,865.16
+Inversión Inicial
+Desarrollo Inicial
+2,400.00
+87898.32
+
+
+6300.83
+230,763.48
+
+
+
+
+Métodos de Fijación de Precios
+Se aplican dos métodos de fijación de precios: basado en costos (costos + margen) y basado en la competencia. Los cálculos consideran 187 suscriptores esperados, costos operativos mensuales de $3,900 USD (C$142,865.16), y un margen de rentabilidad del 20%.
+Método Basado en Costos (Costos + Margen)
+Este método calcula el precio sumando los costos unitarios (costos fijos ÷ suscriptores) más un margen de beneficio del 20%.
+• Costos Fijos Mensuales: $3,900 USD (C$142,865.16).
+• Costo Unitario: $3,900 ÷ 187 = $20.86 USD (C$764.01).
+• Margen Deseado: 20% sobre el costo unitario = $20.86 × 0.20 = $4.17 USD (C$152.80).
+Precio por Suscriptor: $20.86 + $4.17 = $25.03 USD.
+En C$: $25.03 × 36.6243 = C$916.81/mes.
+Ajuste por Valor Percibido: El precio de C$916.81/mes supera el ahorro estimado de C$525/mes, lo que podría limitar la adopción en un segmento sensible al precio. Se ajusta el margen a 10%, resultando en:
+Margen 10%: $20.86 × 0.10 = $2.09 USD (C$76.40).
+Precio Ajustado: $20.86 + $2.09 = $22.95 USD (C$840.42/mes).
+Este precio sigue siendo alto, por lo que se prioriza el método del rendimiento deseado, que equilibra costos y retorno.
+
+
+Método Basado en la Competencia
+
+Este método compara el precio de Shopti con competidores directos (Nex y Tiendatek) para establecer un precio competitivo que refleje el valor agregado.
+Competidores:
+Nex: C$442/mes, ofrece POS, inventario y reportes, pero sin mapa interactivo.
+Tiendatek: C$368-C$736/mes, con funciones básicas de inventario y ventas, sin análisis avanzado ni mapa.
+Valor Diferencial de Shopti: Mapa interactivo, análisis predictivo, soporte integral, optimización para conexiones lentas.
+Precio Propuesto: C$771.83/mes, competitivo frente a Nex y Tiendatek, justificando el valor agregado 
+Justificación: El precio está por encima de Nex (C$442), pero por debajo del rango superior de Tiendatek (C$736), reflejando funcionalidades superiores y alineándose con la disposición a pagar del segmento.
+Cálculo del Precio Final y Justificación
+Precio Final Propuesto: C$771.83/mes por suscriptor, con 187 suscriptores.
+Método Seleccionado: Fijación de Precios por Rendimiento Deseado (basado en costos, ajustado por competencia).
+Cálculo (Rendimiento Deseado):
+• Inversión Inicial: $2,400 USD (C$87,898.32).
+• Retorno Deseado: 20% de $2,400 = $480 USD/año (C$17,579.66) ≈ $40 USD/mes (C$1,464.97).
+• Costos Fijos Mensuales: $3,900 USD (C$142,865.16).
+• Suscriptores Esperados: 187.
+• Costo Unitario: $3,900 ÷ 187 ≈ $20.86 USD (C$764.01).
+• Retorno Unitario: ($480 ÷ 12) ÷ 187 ≈ $0.21 USD (C$7.83).
+• Precio: $20.86 + $0.21 = $21.07 USD.
+• En C$: $21.07 × 36.6243 ≈ C$771.83/mes.
+Justificación:
+• Costos y Rentabilidad: El precio cubre los costos operativos (C$142,865.16/mes) y genera un retorno del 20% con 187 suscriptores (ingresos: 187 × C$771.83 = C$144,322.21/mes, dejando un margen de C$144,322.21 - C$142,865.16 = C$1,457.05).
+• Valor Percibido: El ahorro de C$525/mes y el aumento de ventas por el mapa interactivo justifican el precio, que representa el 4.4% de los ingresos promedio de una pulpería.
+• Competencia: C$771.83 es competitivo, ofreciendo más funcionalidades que Nex y un precio intermedio frente a Tiendatek.
+• Mercado: La alta disposición a pagar (73.97% con internet estable, 100% con smartphones) y las promociones (descuento introductorio, referidos) aseguran viabilidad.
+Tabla de Comparación con Competidores
+Competidor
+Precio Mensual (C$)
+Características Principales
+Ventajas de Shopti
+Nex
+442
+POS, inventario, reportes
+Mapa interactivo, análisis avanzado
+Tiendatek
+368-736
+Inventario, ventas básicas
+Mapa interactivo, funciones completas
+Shopti
+771.83
+Gestión integral, mapa, análisis
+Valor agregado, precio competitivo
+
+
+Plaza
+
+A continuación, se presenta una estrategia de distribución eficiente y alineada con el comportamiento del mercado meta de Shopti, una plataforma digital diseñada para optimizar la gestión operativa de pulperías en Nicaragua. Esta estrategia cumple con los requisitos establecidos, definiendo canales de distribución, seleccionando puntos de venta físicos y digitales, considerando aspectos logísticos y proporcionando los entregables solicitados.
+
+Descripción Detallada del Canal o Red de Distribución
+
+Shopti empleará un enfoque mixto de distribución que combina canales directos e indirectos para maximizar su accesibilidad y adopción entre los dueños de pulperías
+
+Canal Directo: 
+
+Los dueños de pulperías podrán registrarse y suscribirse directamente a través del sitio web oficial de Shopti. Este canal permite a los usuarios gestionar el servicio completamente en línea, desde cualquier dispositivo con acceso a internet, como smartphones o computadoras.
+Ventaja: Es ideal para usuarios con conectividad estable, quienes representan el 73.97% de los dueños de pulperías según encuestas, y se alinea con el hecho de que el 100% posee smartphones.
+
+Canal Indirecto: 
+
+Alianzas con Proveedores de Insumos: Los proveedores que ya tienen relaciones establecidas con las pulperías actuarán como puntos de contacto físicos, distribuyendo materiales promocionales y facilitando el proceso de incorporación (onboarding) a Shopti, especialmente en áreas con conectividad limitada.
+Colaboraciones con INATEC: Esta institución ofrecerá capacitaciones presenciales para abordar la baja alfabetización digital (80.82% de los dueños no ha usado herramientas digitales), ayudando a los usuarios a adaptarse a la plataforma.
+Ventaja: Estos canales indirectos son esenciales para superar barreras tecnológicas y garantizar que usuarios con limitaciones digitales reciban soporte adecuado.
+
+Tipo de Distribución:
+
+Inicialmente, Shopti adoptará una distribución selectiva, enfocándose en pulperías del Distrito VII de Managua interesadas en digitalizar sus operaciones. Esto permite ofrecer soporte intensivo a los primeros adoptantes y superar la resistencia al cambio. Con el tiempo, a medida que crezca la familiaridad con la plataforma, la estrategia evolucionará hacia una distribución intensiva, ampliando su alcance a más regiones, incluidas áreas rurales.
+
+Diagrama de Flujo del Proceso desde Producción hasta Consumidor Final
+
+El proceso de distribución de Shopti, desde su desarrollo hasta el acceso por parte de los dueños de pulperías, se detalla a continuación:
+    • Desarrollo y Mantenimiento: Un equipo de 3 programadores desarrolla y mantiene la plataforma, con soporte técnico subcontratado. Los datos se almacenan en servidores seguros en la nube.
+    • Distribución Digital (Canal Directo): Los usuarios acceden al sitio web oficial de Shopti, se registran y gestionan su suscripción en línea desde sus dispositivos.
+    • Distribución Física (Canal Indirecto): Proveedores de insumos distribuyen materiales promocionales y apoyan el onboarding en pulperías con baja conectividad.
+    • INATEC realiza capacitaciones presenciales para enseñar a los dueños cómo usar la plataforma.
+    • Soporte y Capacitación: Soporte técnico disponible vía chat, teléfono y en eventos presenciales.
+    • Tutoriales interactivos en la app y talleres en INATEC para usuarios con poca experiencia digital.
+    • Acceso del Usuario Final: Los dueños de pulperías utilizan Shopti en sus smartphones o computadoras para gestionar inventarios, ventas y análisis, accediendo también a funciones como el mapa interactivo.
+Este flujo asegura que tanto usuarios tecnológicamente avanzados como aquellos con limitaciones puedan adoptar Shopti de manera efectiva.
+
+
+Mapa de Puntos de Distribución
+Dado que Shopti es un servicio digital, no requiere puntos de venta físicos tradicionales. Sin embargo, los puntos de contacto físicos complementan la distribución digital y se distribuyen estratégicamente:
+    • Ferias Comerciales en Managua (Distrito VII): Espacios para demostraciones en vivo, registros y promoción.
+    • Centros Comunitarios: Actúan como hubs para capacitaciones y soporte presencial en comunidades locales.
+    • Instalaciones de INATEC: Sedes para talleres estructurados en áreas urbanas y periurbanas.
+    • Pulperías Aliadas: Pueden servir como puntos de referencia para demostraciones in situ y difusión entre otros dueños.
+    • Puntos Digitales:
+    • Sitio web oficial de Shopti y redes sociales (Facebook y WhatsApp), accesibles desde cualquier ubicación con internet.
+Estos puntos aseguran una cobertura tanto física como digital, adaptándose a las necesidades del mercado meta.
+
+Aspectos Logísticos
+
+Cobertura Geográfica: 
+La distribución comenzará en el Distrito VII de Managua, expandiéndose gradualmente a otras zonas de la ciudad y, más adelante, a áreas rurales. Para garantizar accesibilidad en regiones con conectividad limitada, la plataforma se optimizará para conexiones lentas (usando tecnologías como McWILL) y ofrecerá funciones offline con sincronización posterior.
+
+Justificación Basada en el Perfil del Cliente Ideal
+
+El cliente ideal de Shopti es un dueño de pulpería en el Distrito VII de Managua, con ingresos entre C$10,000 y C$25,000, que busca optimizar su gestión operativa, pero enfrenta barreras tecnológicas (80.82% sin experiencia digital). La estrategia de distribución se justifica así:
+    • Accesibilidad: El canal directo digital atiende a usuarios con conectividad (73.97%), mientras que los canales indirectos (proveedores e INATEC) apoyan a aquellos con limitaciones, asegurando inclusión.
+    • Superación de Barreras: Capacitaciones presenciales y tutoriales interactivos abordan la resistencia al cambio y la baja alfabetización digital, alineándose con la preferencia del 64.38% por herramientas completas, aunque requieran aprendizaje.
+    • Soporte Continuo: Puntos de contacto físicos y digitales ofrecen asistencia técnica y educativa, esencial para un segmento con poca experiencia tecnológica.
+
+Promoción
+
+El lanzamiento de Shopti se desarrollará en tres fases a lo largo de tres meses, desde el 1 de enero de 2026 hasta el 31 de marzo de 2026, con el objetivo de generar expectativa, captar usuarios y fidelizarlos progresivamente.
+
+Fases del Lanzamiento:
+    • Fase 1: Pre-lanzamiento (1 de enero - 31 de enero de 2026)
+Objetivo: Crear expectativa y educar al mercado sobre Shopti.
+Actividades Clave:
+Publicación de teasers en redes sociales (Facebook y WhatsApp).
+Envío de mensajes automatizados vía WhatsApp Business a dueños de pulperías.
+Videos tutoriales en YouTube explicando las funcionalidades de Shopti.
+
+    • Fase 2: Lanzamiento Oficial (1 de febrero - 29 de febrero de 2026)
+Objetivo: Atraer nuevos usuarios con la promoción "Primer Mes Gratis".
+Actividades Clave:
+Campaña de publicidad paga en Facebook Ads y Google Ads, segmentada al Distrito VII.
+Demostraciones presenciales en pulperías y charlas en ferias de microempresarios.
+Distribución de folletos a través de proveedores de insumos.
+
+    • Fase 3: Post-lanzamiento (1 de marzo - 31 de marzo de 2026)
+Objetivo: Fidelizar usuarios y fomentar el crecimiento orgánico.
+
+Actividades Clave: 
+Lanzamiento del programa de referidos "Recomienda Shopti y Gana".
+Refuerzo de la campaña en redes sociales y radio con testimonios de usuarios.
+Recolección de retroalimentación para ajustar estrategias futuras.
+
+
+Acciones de Publicidad Digital
+La publicidad digital aprovecha la alta penetración de smartphones y el acceso a internet del mercado meta. Los canales seleccionados son:
+    • Facebook Ads: 
+Contenido: Anuncios con testimonios de usuarios y el mensaje "Menos pérdidas, más ganancias".
+Formato: Videos cortos y publicaciones con llamados a la acción para registrarse.
+    • Google Ads: 
+Contenido: Anuncios de texto como "Moderniza tu pulpería con Shopti hoy".
+Formato: Enlaces directos al sitio web oficial para registro.
+    • Instagram: 
+Contenido: Stories y publicaciones con capturas de la plataforma y beneficios clave.
+Formato: Imágenes atractivas con hashtags locales como 
+#PulperíasNicaragua.
+
+Acciones de Publicidad Tradicional
+Los medios tradicionales complementan la estrategia para llegar a usuarios con conectividad limitada:
+    • Radio: 
+Contenido: Spots de 30 segundos con el mensaje "Moderniza tu pulpería sin riesgos".
+Formato: Transmisiones en estaciones locales populares en Managua.
+    • Prensa Local: 
+Contenido: Artículos patrocinados sobre cómo Shopti reduce pérdidas y aumenta ganancias.
+Formato: Publicaciones en periódicos de circulación local.
+Marketing Directo
+
+El marketing directo permite interacción personalizada para superar la resistencia tecnológica:
+Promociones: 
+Contenido: "Primer Mes Gratis" anunciado en folletos con códigos promocionales.
+Formato: Distribución en pulperías y eventos.
+Materiales Publicitarios de Ejemplo
+A continuación, ejemplos descriptivos de materiales publicitarios:
+Flyer para Distribución Física: 
+Descripción: Imagen de una pulpería moderna, texto "Shopti: Menos pérdidas, más ganancias", lista de beneficios (control de inventarios, mapa interactivo) y código QR para registro.
+Banner para Redes Sociales: 
+Descripción: Fondo colorido con el mensaje "Moderniza tu pulpería sin riesgos" y un botón "Regístrate gratis el primer mes".
+Publicación para Instagram: 
+Descripción: Carrusel con capturas de Shopti (registro de ventas, análisis de productos), texto "Simplifica tu día a día con Shopti".
+Cuña Radial: 
+Guión: "¡Dueños de pulperías, escuchen! Con Shopti, menos pérdidas y más clientes. Regístrate hoy y obtén el primer mes gratis. ¡Shopti, tu pulpería más inteligente!"
+
+Cronograma de Campaña
+Fase
+Fechas
+Actividades Clave
+Pre-lanzamiento
+1 enero - 31 enero 2025
+Teasers en Facebook y WhatsApp, videos en YouTube.
+Lanzamiento Oficial
+1 febrero - 31 febrero 2025
+Publicidad en Facebook Ads y Google Ads, demostraciones presenciales, distribución de folletos.
+Post-lanzamiento
+1 marzo - 30 marzo 2025
+Programa de referidos, testimonios en redes, spots radiales.
+
+Justificación del Canal Según el Tipo de Cliente
+
+Canales de Distribución y Comunicación
+
+Canales Digitales (Facebook, Google Ads, Instagram, WhatsApp): Son ideales dada la alta penetración de smartphones (100%) y el 73.97% de acceso a internet. Estos canales permiten ofrecer contenido accesible, educativo y visualmente atractivo para informar y atraer a los usuarios.
+
+Canales Tradicionales (Radio, Vallas, Prensa): Resultan efectivos para llegar al 26.03% de usuarios con conectividad limitada, especialmente en zonas rurales, reforzando el mensaje publicitario y fortaleciendo el reconocimiento de marca.
+
+Marketing Directo (Ferias, Eventos Presenciales): Fundamental para interactuar con el 80.82% de dueños de pulperías con baja alfabetización digital. Permite establecer relaciones de confianza, ofrecer asistencia personalizada y realizar demostraciones prácticas del sistema.
+
+Justificación de la Demanda
+
+La demanda del sistema Shopti se sustenta en múltiples factores:
+
+• Encuestas de mercado: El 94.52% de los encuestados mostró disposición a pagar por una solución digital, reflejando una necesidad latente de herramientas que mejoren la eficiencia operativa y reduzcan pérdidas en la gestión del negocio.
+
+• Resultados preliminares: Un prototipo probado en 10-15 pulperías proyecta un incremento del 15% en las ventas y una disminución del 20% en el tiempo dedicado a la gestión de inventario, lo que valida su potencial impacto positivo en la operatividad.
+
+• Estrategia de introducción al mercado: Durante la fase inicial, Shopti ofrecerá un período de prueba gratuito de 30 días acompañado de campañas de marketing digital y presencial. En la fase de crecimiento, se implementarán programas de referidos y alianzas con asociaciones de pequeños negocios para acelerar la adopción.
+
+• Curva de adopción prevista: Se espera una curva tipo S, iniciando con innovadores y primeros adoptantes, seguida por un crecimiento acelerado entre la mayoría temprana, y finalmente una estabilización a medida que se alcanza la saturación del mercado.
+
+• Estacionalidad: No se prevé un impacto significativo, ya que la necesidad de gestionar inventarios y ventas es constante durante todo el año, y el modelo de suscripción mensual permite adaptabilidad a distintos ciclos comerciales.
+
+Proyección de Ventas
+
+La proyección se basa en un mercado meta de aproximadamente 297 pulperías dentro del Distrito VII de Managua. Dado que no existen datos oficiales sobre el total de pulperías activas, esta cifra se aproxima a partir de observación de campo y segmentación poblacional.
+
+El objetivo es alcanzar 187 suscriptores para cubrir los costos operativos, proyectando un crecimiento exponencial con una tasa de incremento del 40% anual, partiendo de una base inicial de 17 usuarios en el primer año.
+
+La cuota de suscripción mensual es de C$771.83, equivalente a aproximadamente $20.99 USD (usando una tasa de cambio de 1 NIO = 0.027197 USD). Esto genera un ingreso anual por suscriptor de $251.88 USD, con un potencial total de ingresos superior a $47,600 USD anuales una vez alcanzado el umbral de rentabilidad operativa.
+
+Justificación del Modelo de Difusión de Bass
+El modelo de Bass es una herramienta concisa para predecir la adopción de nuevas tecnologías cuando no hay series históricas completas. En el caso de Shopti, su elección responde a que permite captar tanto la adopción temprana (innovadores) como la aceleración posterior por imitación (redes de recomendación), adaptándose bien a un mercado definido de pulperías. Además, los altos niveles de penetración de smartphones (100 %) y acceso estable a internet (73.97 %), junto con una encuesta que indica 94.52 % de disposición a pagar, justifican aumentar los coeficientes de innovación e imitación para obtener proyecciones más optimistas.
+Parámetros ajustados
+• Mercado potencial (m): 297 pulperías
+• Coeficiente de innovación (p): 0.07
+• Coeficiente de imitación (q): 0.60
+• Relación q/p = 8.5714
+• p + q = 0.67
+Cálculos Paso a Paso
+La fórmula básica es
+
+Para cada año t = 1…5:
+    1. Calcular 
+    2. Numerador = 
+    3. Denominador = 
+    4. Fracción = Numerador / Denominador
+    5. F(t) = 297 · Fracción → redondear al entero más cercano
+Resultados:
+• Año 1 (t=1):
+Numerador = 0.488
+Denominador = 1 + 8.5714·0.512 ≈ 5.389
+Fracción ≈ 0.0906 → F(1) ≈ 27 adoptantes
+• Año 2 (t=2):
+Numerador = 0.738
+Denominador = 1 + 8.5714·0.262 ≈ 3.246
+Fracción ≈ 0.2275 → F(2) ≈ 68 adoptantes
+• Año 3 (t=3):
+Numerador = 0.866
+Denominador = 1 + 8.5714·0.134 ≈ 2.150
+Fracción ≈ 0.4028 → F(3) ≈ 120 adoptantes
+• Año 4 (t=4):
+Numerador = 0.931
+Denominador = 1 + 8.5714·0.069 ≈ 1.591
+Fracción ≈ 0.5852 → F(4) ≈ 174 adoptantes
+• Año 5 (t=5):
+Numerador = 0.965
+Denominador = 1 + 8.5714·0.035 ≈ 1.302
+Fracción ≈ 0.7413 → F(5) ≈ 220 adoptantes
+Con estos parámetros optimistas, Shopti pasaría de 27 usuarios en el primer año a 220 en cinco años, reflejando una rápida adopción reforzada por la fuerte influencia social y la alta predisposición tecnológica del mercado.
+
+
+Año
+Suscriptores
+Ingresos Anuales
+1
+27
+250072.96
+2
+68
+629813.28
+3
+120
+1111435.2
+4
+174
+1611581.04
+5
+220
+2037631.2
+
+
+
+
+    4. Análisis financiero y rentabilidad
+
+Costos de producción
+
+Los costos de producción se dividen en inversión inicial y costos operacionales mensuales recurrentes. La inversión inicial corresponde al costo de un mes de salario de tres programadores (US$800 cada uno, total US$2,400). Los costos mensuales incluyen mano de obra, infraestructura y promoción, con un total mensual de C$142,865.16, extrapolado a C$1,714,381.92 anuales.
+Categoría
+Subcategoría
+Costo (USD)
+Costo (C$)
+Mano de Obra
+Salarios Programadores (2)
+2,400.00
+87,898.32
+
+Soporte Subcontratado
+400
+14,649.72
+Infraestructura
+Hosting (PythonAnywhere)
+100
+3,662.43
+
+Dominio (.store)
+0.83
+30.39
+
+Oficina en Managua
+250
+9,156.07
+Promoción
+Afiches promocionales
+350
+12,818.50
+
+Publicidad Paga - Facebook Ads
+80
+2,929.94
+
+Publicidad Paga - Google Ads
+100
+3,662.43
+
+Publicidad Paga - YouTube
+50
+1,831.21
+
+Publicidad Paga - Radio
+170
+6,226.13
+Total Mensual
+
+3,900.83
+142,865.16
+Total Anual (Mensual x 12)
+
+46,809.96
+1,714,381.92
+Inversión Inicial
+Desarrollo Inicial (Salarios 1 mes)
+2,400.00
+87,898.32
+
+
+Justificación:
+    • Inversión Inicial: Confirmado como US$2,400 (C$87,898.32), correspondiente a un mes de salario de tres programadores a US$800 cada uno, según la aclaración (3 * US$800).
+    • Costos Operacionales: La estructura proporcionada incluye costos reales verificados, como hosting en PythonAnywhere (US$100/mes, PythonAnywhere, 2025), dominio .store (US$0.83/mes, Namecheap, 2025), y publicidad en canales relevantes para Nicaragua (e.g., Facebook Ads, radio). La oficina en Managua (US$250/mes) refleja precios de alquiler en zonas comerciales (Nicaragua Investiga, 2024).
+
+
+Fijación de precios
+
+El precio final propuesto es C$771.83/mes por suscriptor (C$9,261.96/año), basado en el método de fijación de precios por rendimiento deseado, que considera los costos y un retorno esperado, ajustado por factores de competencia y mercado. La encuesta indica que el 94.52% de las pulperías están dispuestas a pagar una “pequeña mensualidad”, pero el precio propuesto es alto en relación con sus ingresos (C$10,000-C$25,000/mes para el 60.27%).
+Cálculo del Precio Final y Justificación:
+ Método Seleccionado: Fijación de precios por rendimiento deseado, que busca recuperar la inversión inicial y los costos fijos mensuales con un retorno del 20% anual sobre la inversión, dividido entre suscriptores. 
+ Cálculo: 
+    • Inversión Inicial: US$2,400 (C$87,898.32).
+    • Retorno Deseado: 20% de US$2,400 = US$480/año (C$17,579.66), o US$40/mes (C$1,464.97).
+    • Costos Fijos Mensuales: US$3,900 (C$142,865.16).
+    • Costo Unitario: US$3,900 ÷ 187 ≈ US$20.86 (C$764.01).
+    • Retorno Unitario: (US$480 ÷ 12) ÷ 187 ≈ US$0.21 (C$7.83).
+    • Precio Unitario: US$20.86 + US$0.21 = US$21.07 (C$771.83/mes, usando el tipo de cambio C$36.6243 proporcionado).
+ Justificación: 
+    • Rendimiento Deseado: El método asegura la recuperación de la inversión inicial con un retorno del 20%, adecuado para startups tecnológicas en mercados emergentes (Trade.gov, 2024).
+    • Ajuste por Competencia: Aunque el 80.82% de las pulperías nunca ha usado herramientas digitales y el 100% no usa redes sociales para promoción, el precio considera alternativas informales (e.g., registros manuales) que son gratuitas.
+
+
+
+
+Proyección de ventas a 5 años
+
+Las proyecciones de ventas se basan en los resultados proporcionados del modelo de difusión de Bass, con adoptantes acumulados e ingresos anuales para los años 2025-2029. Los ingresos se calculan con la tarifa de C$771.83/mes (C$9,261.96/año).
+Año
+Adoptantes Acumulados
+Ingresos Anuales (C$)
+2025
+27
+250,072.92
+2026
+68
+629,813.28
+2027
+120
+1,111,435.20
+2028
+174
+1,611,581.04
+2029
+220
+2,037,631.20
+
+ Modelo de Bass: Los resultados reflejan un mercado potencial de 281 pulperías (94.52% de 297), con parámetros p=0.05 y q=0.4, basados en la alta disposición para pagar (94.52%), el 100% de posesión de smartphones, el 73.97% con internet estable y el 79.46% que se siente cómodo con tecnología (Bass, 1969; encuesta). 
+ Ingresos: Los ingresos anuales se derivan de los adoptantes acumulados multiplicados por C$9,261.96/año, según los datos proporcionados.
+
+Indicadores financieros
+
+
+Punto de equilibrio
+Valor presente neto
+Tasa interna de retorno
+Conclusion de viabilidad
+
+
+
+
+    2. Referencias
+Instituto Nacional de Información de Desarrollo. (2010). Directorio de establecimientos industriales, comerciales y de servicios: Municipio de Managua. Recuperado de https://www.inide.gob.ni/docu/CensoEconomico/DirectorioCEU/Managua.pdf
+Comisión Económica para América Latina y el Caribe. (2022). Estudio económico de América Latina y el Caribe 2022: Dinámica y desafíos de la inversión para impulsar una recuperación sostenible e inclusiva (Informe LC/PUB.2022/9‑P/Rev.1). Recuperado de https://repositorio.cepal.org/server/api/core/bitstreams/f221aa4c-8df5-439f-aaa4-f4b1bb5c0e82/content
+Alcaldía de Managua. (2020). Caracterización de los distritos de Managua: Distrito VII. Recuperado de https://urbanismo.managua.gob.ni/wp-content/uploads/2020/04/CARACTERIZACION-DVII.pdf
+
+    3. 
+
+
+
+
+
+
+
+
+    4. 
+    5. 
+
+    6. Anexos
+1. ¿Cuántas personas atienden habitualmente en la pulpería?  
+    • 1 persona  
+    • 2–5 personas  
+    • 5–9 personas  
+2. ¿Cuál es su ingreso mensual promedio en la pulpería?  
+    • C$10,000–C$25,000  
+    • C$25,001–C$50,000  
+    • Más de C$50,000  
+3. ¿Su ingreso mensual cubre sus necesidades actuales?  
+    • Sí, completamente  
+    • Parcialmente  
+4. ¿Qué porcentaje de su ingreso mensual reinvierte en el negocio?  
+    • Menos del 25%  
+    • 25%–50%  
+    • 51%–75%  
+    • Más del 75%  
+5. ¿Cuál es su horario de atención al público?  
+    • Todo el día (mañana y tarde)  
+    • Solo de mañana
+    • Solo de tarde
+6. ¿Cuánto invierte mensualmente en promoción o publicidad de la pulpería?  
+    • Nada  
+7. ¿Está al tanto de los permisos y licencias necesarios para operar su pulpería?  
+    • Sí, y las tengo al día  
+    • No, desconozco los requisitos  
+8. ¿Cuál es su edad?  
+    • 18–29 años  
+    • 30–45 años  
+    • 46–60 años  
+    • 61–70 años  
+    • 71–80 años  
+9. ¿Cuántos años lleva gestionando su pulpería?  
+    • 1 a 3 años  
+    • 4 a 6 años  
+    • 7 a 10 años  
+    • Más de 10 años  
+10. ¿Con qué frecuencia dedica tiempo a aprender sobre gestión, finanzas o herramientas digitales?  
+    • Nunca  
+    • Varias veces a la semana
+    • Casi nunca
+11. ¿Cree que su estilo de vida es compatible con el uso de tecnología en su negocio?  
+    • Totalmente compatible
+    • Algo compatible
+    • Nada compatible
+12. ¿Cómo se siente al usar nuevas tecnologías para administrar su negocio?  
+    • Muy cómodo  
+    • Algo cómodo  
+    • Inseguro  
+    • Prefiero no usarlas  
+13. ¿Tiene un teléfono inteligente (smartphone)?  
+    • Sí  
+    • No
+14. ¿Qué sistema operativo utiliza en su teléfono?  
+    • Android  
+    • Iphone
+    • Otro
+15. ¿Con qué frecuencia utiliza aplicaciones móviles en su vida diaria (fuera del negocio)?  
+    • Todos los días  
+    • Varias veces por semana  
+16. ¿Tiene acceso estable a internet en su pulpería o en casa?  
+    • Sí, siempre  
+    • A veces funciona  
+17. ¿Utiliza redes sociales para su pulpería?  
+    • No  
+    • Sí
+18. ¿Ha utilizado antes alguna herramienta digital para inventario, ventas o finanzas?  
+    • Sí, lo intenté, pero dejé de usarla  
+    • No, nunca  
+    • Actualmente uso
+19. ¿Qué tipo de app preferiría?  
+    • Sencilla, con funciones básicas  
+    • Completa, aunque tome más tiempo aprenderla  
+20. ¿Estaría dispuesto a pagar una pequeña mensualidad por una app útil?  
+    • Sí  
+    • No  
+21. ¿Cuáles son los tres principales problemas que enfrenta en su negocio?  
+    • Quedarse sin inventario, tardarse en calcular la suma de productos a vender, pérdida de inventario por caducidad  
+22. ¿Cuáles son las principales categorías de productos que maneja?  
+    • Abarrotes, bebidas, higiene y limpieza, snacks y golosinas  
+23. ¿Qué funciones serían más útiles en una app para su negocio?  
+    • Control de inventario, registro de ventas, estadísticas y reportes
+
+
+https://www.bcn.gob.ni/divulgacion-prensa/bcn-informa-sobre-resultados-de-la-inflaci%C3%B3n-de-2024
+
+https://telcor.gob.ni/mapas-de-coberturas-de-telecomunicaciones-telcor/
+
+https://gs.statcounter.com/os-market-share/mobile/nicaragua/#monthly-202402-202502
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Matriz de segmentación de mercado
+
+
+Buyer persona
+
+
+
+Pulperia
+
+### Referencias
+
+Banco Central de Nicaragua. (2024). *Perspectivas macroeconómicas 2024-2025*. https://www.bcn.gob.ni/
+
+Comisión Nacional de Salario Mínimo. (2025). *Acta No. 1 CNSM-27/02/2025: Acuerdo sobre el salario mínimo vigente del 1 de marzo de 2025 al 28 de febrero de 2026*. Ministerio del Trabajo.
+
+Confidencial. (2024a, May 25). Productos agrícolas encarecen la canasta básica en Nicaragua. https://confidencial.digital/economia/productos-agricolas-encarecen-la-canasta-basica-en-nicaragua/
+
+Confidencial. (2024b, June 7). Comida más cara en restaurantes de Nicaragua. https://confidencial.digital/economia/alimentos-se-encarecen-e-impactan-a-consumidores-comedores-y-restaurantes/
+
+Coyuntura. (2024). Leve alivio en la canasta básica nicaragüense. https://coyuntura.org/
+
+Divergentes. (2024). La canasta básica en Nicaragua atrapada en la peor espiral alcista. https://divergentes.com/
+
+EL PAÍS América. (2024). Pobreza Nicaragua: “Nos toca hacer de tripas corazón”. https://elpais.com/america/
+
+Instituto Nacional de Información de Desarrollo. (2024). *Datos de la canasta básica, diciembre 2024*. https://www.inide.gob.ni/
+
+Nicaragua Investiga. (2023). Nicaragua, “un país estancado” en la informalidad. https://nicaraguainvestiga.com/
+
+### Referencias
+
+Comisión Nacional de Salario Mínimo. (2025). *Acta No. 1 CNSM-27/02/2025: Acuerdo sobre el salario mínimo vigente del 1 de marzo de 2025 al 28 de febrero de 2026*. Ministerio del Trabajo.
+
+Confidencial. (2024, May 25). Productos agrícolas encarecen la canasta básica en Nicaragua. https://confidencial.digital/economia/productos-agricolas-encarecen-la-canasta-basica-en-nicaragua/
+
+Field Study of the World. (2017). How Sonati is raising environmental awareness in Nicaragua. https://fieldstudyoftheworld.com/how-sonati-raising-environmental-awareness-nicaragua/
+
+Lexology. (2022). Nicaragua - Corn Island begins to regulate and control the entry, use and commercialization of single-use plastic. https://www.lexology.com/library/detail.aspx?g=6e19b5f8-b835-4461-b304-72bdddf4fe35
+
+World Bank. (2016). Environmental health in Nicaragua: Addressing key environmental challenges. https://www.worldbank.org/en/country/nicaragua/publication/salud-ambiental-nicaragua
+
+Asamblea Nacional de Nicaragua. (2012). *Ley No. 787, Ley de Protección de Datos Personales*. http://legislacion.asamblea.gob.ni/normaweb.nsf/9e314815a08d4a6206257265005d21f9/e5d37e9b4827fc06062579ed0076ce1d
+
+Banco Central de Nicaragua. (2022). *Reglamento de los Proveedores de Tecnología Financiera de Servicios de Pago y Proveedores de Servicios de Activos Virtuales*. La Gaceta, Diario Oficial No. 76. https://www.leybook.com/doc/24911
+
+Ministerio de Fomento, Industria y Comercio. (s.f.). *Inscripción mercantil*. https://www.mific.gob.ni/
+
+Registro Público de Nicaragua. (s.f.). *Servicio de inscripción mercantil*. https://www.registropublico.gob.ni/Servicios/Inscripcion/Mercantil/Default.aspx
+
+Superintendencia de Bancos y Otras Instituciones Financieras. (s.f.). *Sobre la SIBOIF: Funciones y supervisión*. https://www.superintendencia.gob.ni/
+
+Trade.gov. (2024). *Nicaragua - eCommerce*. https://www.trade.gov/country-commercial-guides/nicaragua-ecommerce
+
+
+
+Bass, F. M. (1969). A new product growth for model consumer durables. *Management Science*, 15(5), 215-227. https://pubsonline.informs.org/doi/abs/10.1287/mnsc.15.5.215  
+

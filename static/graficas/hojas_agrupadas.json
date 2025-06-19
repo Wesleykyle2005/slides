@@ -1,0 +1,4934 @@
+{
+  "enero": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 18.78,
+          "total": 713.64
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 34.95,
+          "total": 1188.3
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.34,
+          "total": 460.2
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 57.72,
+          "total": 404.04
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 150.92,
+          "total": 1207.36
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 90.38,
+          "total": 451.9
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 60.28,
+          "total": 482.24
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 97.48,
+          "total": 877.32
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 39.63,
+          "total": 1188.9
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 72.97,
+          "total": 510.79
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 132.91,
+          "total": 1196.19
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 24.15,
+          "total": 1376.55
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 37.58,
+          "total": 375.8
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 45.5,
+          "total": 227.5
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 32.21,
+          "total": 869.67
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 30.25,
+          "total": 423.5
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 43.82,
+          "total": 350.56
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 40.97,
+          "total": 614.55
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 9.84,
+          "total": 314.88
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 48.22,
+          "total": 144.66
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 17.55,
+          "total": 280.8
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 10.51,
+          "total": 483.46
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 15.43,
+          "total": 30.86
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 27.11,
+          "total": 340.2305
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.64111502,
+          "total": 101.8419871
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 44.78,
+          "total": 95.3814
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.72,
+          "total": 29.5664
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 78.72,
+          "total": 96.0384
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 20.99,
+          "total": 224.8029
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 16.91,
+          "total": 78.9697
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.19,
+          "total": 62.2999
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 56.68,
+          "total": 107.692
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.08,
+          "total": 49.9992
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 503.87,
+          "total": 313.0494433
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 167.83,
+          "total": 110.7684211
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 61.67,
+          "total": 96.5147176
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 35.53,
+          "total": 46.89532955
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 554.74,
+          "total": 239.7648986
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 170.26,
+          "total": 112.3716
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 547.55,
+          "total": 279.2505
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 298.83,
+          "total": 149.415
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 55.49,
+          "total": 68.2527
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 72.1,
+          "total": 69.937
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 290.03,
+          "total": 127.6132
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 376.11,
+          "total": 188.793871
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 38.78,
+          "total": 55.55764557
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 30.65,
+          "total": 42.55092525
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 377.73,
+          "total": 168.8952576
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14173.67
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3612.472149
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2069.63051
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 19855.77266
+      }
+    ]
+  },
+  "febrero": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 18.98,
+          "total": 721.24
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 34.1,
+          "total": 1159.4
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.35,
+          "total": 460.5
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 61.14,
+          "total": 427.98
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 142.54,
+          "total": 1140.32
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 90.19,
+          "total": 450.95
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 60.15,
+          "total": 481.2
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 99.11,
+          "total": 891.99
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 39.93,
+          "total": 1197.9
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 74.22,
+          "total": 519.54
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 135.12,
+          "total": 1216.08
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.0,
+          "total": 1311.0
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 38.12,
+          "total": 381.2
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 44.62,
+          "total": 223.1
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 31.8,
+          "total": 858.6
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 21.79,
+          "total": 305.06
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 38.78,
+          "total": 310.24
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 40.72,
+          "total": 610.8
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.08,
+          "total": 322.56
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 46.75,
+          "total": 140.25
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 16.3,
+          "total": 260.8
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 14.78,
+          "total": 679.88
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 12.27,
+          "total": 24.54
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 27.03,
+          "total": 339.2265
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.644333094,
+          "total": 101.9319966
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 45.76,
+          "total": 97.4688
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.52,
+          "total": 27.3924
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 79.28,
+          "total": 96.7216
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.32,
+          "total": 228.3372
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 15.04,
+          "total": 70.2368
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 27.98,
+          "total": 61.8358
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 58.19,
+          "total": 110.561
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.77,
+          "total": 51.7173
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 507.48,
+          "total": 315.2923005
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 175.86,
+          "total": 116.0682508
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 61.73,
+          "total": 96.60861874
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 35.83,
+          "total": 47.2912935
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 553.78,
+          "total": 239.3499757
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 178.53,
+          "total": 117.8298
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 546.17,
+          "total": 278.5467
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 302.82,
+          "total": 151.41
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 57.56,
+          "total": 70.7988
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 74.92,
+          "total": 72.6724
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 291.79,
+          "total": 128.3876
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 385.47,
+          "total": 193.4922588
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 39.04,
+          "total": 55.93013107
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 31.93,
+          "total": 44.32792963
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 388.74,
+          "total": 173.8181834
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14095.13
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3611.079158
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2101.824242
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 19808.0334
+      }
+    ]
+  },
+  "marzo": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 19.18,
+          "total": 728.84
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 34.72,
+          "total": 1180.48
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.4,
+          "total": 462.0
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 78.72,
+          "total": 551.04
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 152.92,
+          "total": 1223.36
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 89.72,
+          "total": 448.6
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 59.61,
+          "total": 476.88
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 100.07,
+          "total": 900.63
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.5,
+          "total": 1215.0
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 74.98,
+          "total": 524.86
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 136.74,
+          "total": 1230.66
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.12,
+          "total": 1317.84
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 38.57,
+          "total": 385.7
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 46.3,
+          "total": 231.5
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 32.75,
+          "total": 884.25
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 19.13,
+          "total": 267.82
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 40.67,
+          "total": 325.36
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 40.45,
+          "total": 606.75
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.19,
+          "total": 326.08
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 41.62,
+          "total": 124.86
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 16.62,
+          "total": 265.92
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 18.32,
+          "total": 842.72
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 11.83,
+          "total": 23.66
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 27.03,
+          "total": 339.2265
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.638800294,
+          "total": 101.7772442
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 45.96,
+          "total": 97.8948
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.59,
+          "total": 28.1533
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 78.89,
+          "total": 96.2458
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.49,
+          "total": 230.1579
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 11.59,
+          "total": 54.1253
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.19,
+          "total": 62.2999
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 61.16,
+          "total": 116.204
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.54,
+          "total": 51.1446
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 507.41,
+          "total": 315.2488102
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 179.36,
+          "total": 118.3782638
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 63.78,
+          "total": 99.81690755
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 36.48,
+          "total": 48.14921537
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 550.73,
+          "total": 238.0317313
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 179.57,
+          "total": 118.5162
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 546.17,
+          "total": 278.5467
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 302.44,
+          "total": 151.22
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 57.92,
+          "total": 71.2416
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 77.45,
+          "total": 75.1265
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 295.7,
+          "total": 130.108
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 391.78,
+          "total": 196.6596549
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 38.7,
+          "total": 55.44303464
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.04,
+          "total": 44.48064095
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 388.74,
+          "total": 173.8181834
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14544.81
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3602.879106
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2114.785442
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 20262.47455
+      }
+    ]
+  },
+  "abril": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 19.42,
+          "total": 737.96
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 34.99,
+          "total": 1189.66
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.48,
+          "total": 464.4
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 78.91,
+          "total": 552.37
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 153.55,
+          "total": 1228.4
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 89.84,
+          "total": 449.2
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 60.49,
+          "total": 483.92
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 100.69,
+          "total": 906.21
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.75,
+          "total": 1222.5
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 75.15,
+          "total": 526.05
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 153.22,
+          "total": 1378.98
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.57,
+          "total": 1343.49
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 38.5,
+          "total": 385.0
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 45.54,
+          "total": 227.7
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 30.47,
+          "total": 822.69
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 17.26,
+          "total": 241.64
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 42.11,
+          "total": 336.88
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 38.0,
+          "total": 570.0
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.41,
+          "total": 333.12
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 45.14,
+          "total": 135.42
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 16.26,
+          "total": 260.16
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 19.46,
+          "total": 895.16
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 12.54,
+          "total": 25.08
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 27.06,
+          "total": 339.603
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.653908574,
+          "total": 102.1998228
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 46.59,
+          "total": 99.2367
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.5,
+          "total": 27.175
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 78.89,
+          "total": 96.2458
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.0,
+          "total": 224.91
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 12.19,
+          "total": 56.9273
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.3,
+          "total": 62.543
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 61.59,
+          "total": 117.021
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.4,
+          "total": 50.796
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 508.32,
+          "total": 315.8141842
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 179.36,
+          "total": 118.3782638
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 65.43,
+          "total": 102.3991888
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 36.3,
+          "total": 47.911637
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 564.12,
+          "total": 243.8190406
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 179.86,
+          "total": 118.7076
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 541.11,
+          "total": 275.9661
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 302.44,
+          "total": 151.22
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 57.84,
+          "total": 71.1432
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 79.82,
+          "total": 77.4254
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 298.47,
+          "total": 131.3268
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 393.31,
+          "total": 197.4276606
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 38.52,
+          "total": 55.18516006
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.04,
+          "total": 44.48064095
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 398.35,
+          "total": 178.1151242
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14715.99
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3602.307384
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2129.32
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 20447.61738
+      }
+    ]
+  },
+  "mayo": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 20.25,
+          "total": 769.5
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 34.88,
+          "total": 1185.92
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.46,
+          "total": 463.8
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 80.61,
+          "total": 564.27
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 147.71,
+          "total": 1181.68
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 90.14,
+          "total": 450.7
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 61.28,
+          "total": 490.24
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 102.02,
+          "total": 918.18
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.61,
+          "total": 1218.3
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 74.85,
+          "total": 523.95
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 152.21,
+          "total": 1369.89
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.72,
+          "total": 1352.04
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 38.56,
+          "total": 385.6
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 45.88,
+          "total": 229.4
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 30.99,
+          "total": 836.73
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 25.21,
+          "total": 352.94
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 44.97,
+          "total": 359.76
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 36.44,
+          "total": 546.6
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.09,
+          "total": 322.88
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 50.3,
+          "total": 150.9
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 14.33,
+          "total": 229.28
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 21.2,
+          "total": 975.2
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 13.92,
+          "total": 27.84
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 26.68,
+          "total": 334.834
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.631769705,
+          "total": 101.5805986
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 46.3,
+          "total": 98.619
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.5,
+          "total": 27.175
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 78.41,
+          "total": 95.6602
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 20.63,
+          "total": 220.9473
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 13.63,
+          "total": 63.6521
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.34,
+          "total": 62.6314
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 61.59,
+          "total": 117.021
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.42,
+          "total": 50.8458
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 514.17,
+          "total": 319.4487313
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 183.75,
+          "total": 121.27568
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 65.43,
+          "total": 102.3991888
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 36.86,
+          "total": 48.6507697
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 562.43,
+          "total": 243.0886035
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 186.36,
+          "total": 122.9976
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 541.92,
+          "total": 276.3792
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 302.86,
+          "total": 151.43
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 59.04,
+          "total": 72.6192
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 80.31,
+          "total": 77.9007
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 304.35,
+          "total": 133.914
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 393.53,
+          "total": 197.5380928
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 38.51,
+          "total": 55.1708337
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.33,
+          "total": 44.8832435
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 398.63,
+          "total": 178.2403212
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14905.6
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3598.61616
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2145.936164
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 20650.15232
+      }
+    ]
+  },
+  "junio": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 21.24,
+          "total": 807.12
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 34.98,
+          "total": 1189.32
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.57,
+          "total": 467.1
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 75.68,
+          "total": 529.76
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 157.13,
+          "total": 1257.04
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 89.39,
+          "total": 446.95
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 61.51,
+          "total": 492.08
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 106.63,
+          "total": 959.67
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.58,
+          "total": 1217.4
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 74.6,
+          "total": 522.2
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 143.8,
+          "total": 1294.2
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.68,
+          "total": 1349.76
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 38.87,
+          "total": 388.7
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 46.14,
+          "total": 230.7
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 31.28,
+          "total": 844.56
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 32.27,
+          "total": 451.78
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 56.33,
+          "total": 450.64
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 45.26,
+          "total": 678.9
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 11.83,
+          "total": 378.56
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 53.68,
+          "total": 161.04
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 14.84,
+          "total": 237.44
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 18.31,
+          "total": 842.26
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 15.53,
+          "total": 31.06
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 26.71,
+          "total": 335.2105
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.998810377,
+          "total": 111.8467262
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 46.7,
+          "total": 99.471
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.48,
+          "total": 26.9576
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 77.51,
+          "total": 94.5622
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 20.82,
+          "total": 222.9822
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 15.98,
+          "total": 74.6266
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.47,
+          "total": 62.9187
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 61.79,
+          "total": 117.401
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.53,
+          "total": 51.1197
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 511.84,
+          "total": 318.0011254
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 188.66,
+          "total": 124.5162982
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 67.97,
+          "total": 106.3743369
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 35.42,
+          "total": 46.75014277
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 569.22,
+          "total": 246.0233183
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 186.45,
+          "total": 123.057
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 542.17,
+          "total": 276.5067
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 304.62,
+          "total": 152.31
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 59.16,
+          "total": 72.7668
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 80.58,
+          "total": 78.1626
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 301.37,
+          "total": 132.6028
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 410.1,
+          "total": 205.8556447
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 38.51,
+          "total": 55.1708337
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.36,
+          "total": 44.92489204
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 404.13,
+          "total": 180.6995485
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 15228.24
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3622.745988
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2163.72204
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 21014.70803
+      }
+    ]
+  },
+  "julio": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 21.42,
+          "total": 813.96
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 35.08349753,
+          "total": 1192.838916
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.68,
+          "total": 470.4
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 67.41,
+          "total": 471.87
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 147.74,
+          "total": 1181.92
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 89.2,
+          "total": 446.0
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 62.3,
+          "total": 498.4
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 107.02,
+          "total": 963.18
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.76,
+          "total": 1222.8
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 74.57,
+          "total": 521.99
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 134.17,
+          "total": 1207.53
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.41,
+          "total": 1334.37
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 38.87,
+          "total": 388.7
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 45.64,
+          "total": 228.2
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 32.84,
+          "total": 886.68
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 32.69,
+          "total": 457.66
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 60.09,
+          "total": 480.72
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 57.38,
+          "total": 860.7
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 12.09,
+          "total": 386.88
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 55.29,
+          "total": 165.87
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 14.48,
+          "total": 231.68
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 16.95,
+          "total": 779.7
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 13.92,
+          "total": 27.84
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 26.89,
+          "total": 337.4695
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.958772548,
+          "total": 110.7268682
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 46.69,
+          "total": 99.4497
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.54,
+          "total": 27.6098
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 77.2,
+          "total": 94.184
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 20.95,
+          "total": 224.3745
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 12.2,
+          "total": 56.974
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.53,
+          "total": 63.0513
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 62.59,
+          "total": 118.921
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.61,
+          "total": 51.3189
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 522.81,
+          "total": 324.8166778
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 191.11,
+          "total": 126.1333072
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 67.17,
+          "total": 105.1223217
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 36.96,
+          "total": 48.78275768
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 575.26,
+          "total": 248.6338745
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 190.01,
+          "total": 125.4066
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 548.3,
+          "total": 279.633
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 309.33,
+          "total": 154.665
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 59.38,
+          "total": 73.0374
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 81.58,
+          "total": 79.1326
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 301.37,
+          "total": 132.6028
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 416.43,
+          "total": 209.03308
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 38.93,
+          "total": 55.77254105
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.74,
+          "total": 45.45244022
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 406.06,
+          "total": 181.5625137
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 15219.88892
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3609.72933
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2189.786914
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 21019.40516
+      }
+    ]
+  },
+  "agosto": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 21.52,
+          "total": 817.76
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 33.58,
+          "total": 1141.72
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.72,
+          "total": 471.6
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 64.69,
+          "total": 452.83
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 154.26,
+          "total": 1234.08
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 89.45,
+          "total": 447.25
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 62.62,
+          "total": 500.96
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 107.09,
+          "total": 963.81
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.83,
+          "total": 1224.9
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 74.67,
+          "total": 522.69
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 125.16,
+          "total": 1126.44
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.66,
+          "total": 1348.62
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 39.3,
+          "total": 393.0
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 46.08,
+          "total": 230.4
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 31.86,
+          "total": 860.22
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 28.0,
+          "total": 392.0
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 57.69,
+          "total": 461.52
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 47.39,
+          "total": 710.85
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.4,
+          "total": 332.8
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 55.36,
+          "total": 166.08
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 14.73,
+          "total": 235.68
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 14.69,
+          "total": 675.74
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 13.67,
+          "total": 27.34
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 26.98,
+          "total": 338.599
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.930501495,
+          "total": 109.9361268
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 46.94,
+          "total": 99.9822
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.54,
+          "total": 27.6098
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 77.2,
+          "total": 94.184
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.36,
+          "total": 228.7656
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 12.55,
+          "total": 58.6085
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.56,
+          "total": 63.1176
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 62.04,
+          "total": 117.876
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.68,
+          "total": 51.4932
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 524.6,
+          "total": 325.9287871
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 198.82,
+          "total": 131.2219358
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 67.38,
+          "total": 105.4509757
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 37.1,
+          "total": 48.96754085
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 578.28,
+          "total": 249.9391527
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 191.14,
+          "total": 126.1524
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 552.06,
+          "total": 281.5506
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 304.55,
+          "total": 152.275
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 59.96,
+          "total": 73.7508
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 84.87,
+          "total": 82.3239
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 299.26,
+          "total": 131.6744
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 415.83,
+          "total": 208.7319013
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 39.49,
+          "total": 56.57481752
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.46,
+          "total": 45.06372051
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 414.73,
+          "total": 185.4391501
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14738.29
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3615.821788
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2205.045082
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 20559.15687
+      }
+    ]
+  },
+  "septiembre": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 21.76,
+          "total": 826.88
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 32.38,
+          "total": 1100.92
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.8,
+          "total": 474.0
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 60.27,
+          "total": 421.89
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 147.98,
+          "total": 1183.84
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 88.8,
+          "total": 444.0
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 62.72,
+          "total": 501.76
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 107.09,
+          "total": 963.81
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.93,
+          "total": 1227.9
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 74.41,
+          "total": 520.87
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 116.27,
+          "total": 1046.43
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.32,
+          "total": 1329.24
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 40.09,
+          "total": 400.9
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 46.08,
+          "total": 230.4
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 31.13,
+          "total": 840.51
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 23.33,
+          "total": 326.62
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 47.97,
+          "total": 383.76
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 36.83,
+          "total": 552.45
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.0,
+          "total": 320.0
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 51.32,
+          "total": 153.96
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 14.5,
+          "total": 232.0
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 14.41,
+          "total": 662.86
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 11.99,
+          "total": 23.98
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 27.01,
+          "total": 338.9755
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.922210957,
+          "total": 109.7042405
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 46.87,
+          "total": 99.8331
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.54,
+          "total": 27.6098
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 76.11,
+          "total": 92.8542
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.17,
+          "total": 226.7307
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 12.87,
+          "total": 60.1029
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.58,
+          "total": 63.1618
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 62.04,
+          "total": 117.876
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.56,
+          "total": 51.1944
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 526.1,
+          "total": 326.8607222
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 220.8,
+          "total": 145.7288171
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 66.99,
+          "total": 104.8406183
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 37.08,
+          "total": 48.94114325
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 578.28,
+          "total": 249.9391527
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 191.23,
+          "total": 126.2118
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 556.42,
+          "total": 283.7742
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 308.46,
+          "total": 154.23
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 59.72,
+          "total": 73.4556
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 87.75,
+          "total": 85.1175
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 297.38,
+          "total": 130.8472
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 422.55,
+          "total": 212.1051028
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 39.5,
+          "total": 56.58914389
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.84,
+          "total": 45.59126868
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 427.03,
+          "total": 190.9388765
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14168.98
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3613.692402
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2235.171145
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 20017.84355
+      }
+    ]
+  },
+  "octubre": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 21.96,
+          "total": 834.48
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 30.5,
+          "total": 1037.0
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.76,
+          "total": 472.8
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 60.15,
+          "total": 421.05
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 156.38,
+          "total": 1251.04
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 90.67,
+          "total": 453.35
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 63.06,
+          "total": 504.48
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 107.55,
+          "total": 967.95
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.93,
+          "total": 1227.9
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 73.8,
+          "total": 516.6
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 113.22,
+          "total": 1018.98
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.29,
+          "total": 1327.53
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 41.01,
+          "total": 410.1
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 46.12,
+          "total": 230.6
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 32.51,
+          "total": 877.77
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 22.15,
+          "total": 310.1
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 49.09,
+          "total": 392.72
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 29.89,
+          "total": 448.35
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.93,
+          "total": 349.76
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 51.28,
+          "total": 153.84
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 14.02,
+          "total": 224.32
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 13.77,
+          "total": 633.42
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 10.8,
+          "total": 21.6
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 26.94,
+          "total": 338.097
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.898446457,
+          "total": 109.0395474
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 47.02,
+          "total": 100.1526
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.54,
+          "total": 27.6098
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 76.6,
+          "total": 93.452
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.18,
+          "total": 226.8378
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 11.81,
+          "total": 55.1527
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.73,
+          "total": 63.4933
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 61.75,
+          "total": 117.325
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.58,
+          "total": 51.2442
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 526.85,
+          "total": 327.3266898
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 225.26,
+          "total": 148.6724336
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 68.03,
+          "total": 106.468238
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 37.04,
+          "total": 48.88834806
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 578.28,
+          "total": 249.9391527
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 192.66,
+          "total": 127.1556
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 557.07,
+          "total": 284.1057
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 310.11,
+          "total": 155.055
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 60.7,
+          "total": 74.661
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 88.85,
+          "total": 86.1845
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 302.73,
+          "total": 133.2012
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 425.61,
+          "total": 213.6411142
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 39.93,
+          "total": 57.20517761
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.83,
+          "total": 45.57738584
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 424.4,
+          "total": 189.7629188
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14085.74
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3608.053709
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2247.844459
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 19941.63817
+      }
+    ]
+  },
+  "noviembre": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 21.94,
+          "total": 833.72
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 29.74,
+          "total": 1011.16
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.81,
+          "total": 474.3
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 61.68,
+          "total": 431.76
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 143.86,
+          "total": 1150.88
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 89.44,
+          "total": 447.2
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 62.81,
+          "total": 502.48
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 107.65,
+          "total": 968.85
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.84,
+          "total": 1225.2
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 73.45,
+          "total": 514.15
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 109.03,
+          "total": 981.27
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.72,
+          "total": 1352.04
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 40.69,
+          "total": 406.9
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 45.7,
+          "total": 228.5
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 31.69,
+          "total": 855.63
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 27.4,
+          "total": 383.6
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 54.56,
+          "total": 436.48
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 34.04,
+          "total": 510.6
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 10.84,
+          "total": 346.88
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 63.27,
+          "total": 189.81
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 15.56,
+          "total": 248.96
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 12.81,
+          "total": 589.26
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 11.48,
+          "total": 22.96
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 27.15,
+          "total": 340.7325
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.914804576,
+          "total": 109.497084
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 47.64,
+          "total": 101.4732
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.54,
+          "total": 27.6098
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 77.2,
+          "total": 94.184
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.13,
+          "total": 226.3023
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 11.33,
+          "total": 52.9111
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 28.8,
+          "total": 63.648
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 63.96,
+          "total": 121.524
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.58,
+          "total": 51.2442
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 525.8,
+          "total": 326.6743352
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 225.82,
+          "total": 149.0420357
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 70.92,
+          "total": 110.9911427
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 37.38,
+          "total": 49.3371072
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 602.65,
+          "total": 260.4721422
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 193.31,
+          "total": 127.5846
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 557.95,
+          "total": 284.5545
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 316.75,
+          "total": 158.375
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 61.32,
+          "total": 75.4236
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 89.31,
+          "total": 86.6307
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 304.12,
+          "total": 133.8128
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 426.04,
+          "total": 213.8569589
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 40.87,
+          "total": 58.55185597
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.39,
+          "total": 44.96654058
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 414.12,
+          "total": 185.1663994
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14112.59
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3614.775946
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2265.439718
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 19992.80566
+      }
+    ]
+  },
+  "diciembre": {
+    "categorias": {
+      "alimentos básicos": [
+        {
+          "descripcion": "arroz",
+          "unidad": "libra",
+          "cantidad": 38.0,
+          "precio_unitario": 21.91,
+          "total": 832.58
+        },
+        {
+          "descripcion": "frijol",
+          "unidad": "libra",
+          "cantidad": 34.0,
+          "precio_unitario": 32.04,
+          "total": 1089.36
+        },
+        {
+          "descripcion": "azúcar",
+          "unidad": "libra",
+          "cantidad": 30.0,
+          "precio_unitario": 15.8,
+          "total": 474.0
+        },
+        {
+          "descripcion": "aceite",
+          "unidad": "litro",
+          "cantidad": 7.0,
+          "precio_unitario": 64.38,
+          "total": 450.66
+        }
+      ],
+      "carnes": [
+        {
+          "descripcion": "posta de res",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 147.48,
+          "total": 1179.84
+        },
+        {
+          "descripcion": "posta de cerdo",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 89.42,
+          "total": 447.1
+        },
+        {
+          "descripcion": "carne de aves",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 62.88,
+          "total": 503.04
+        },
+        {
+          "descripcion": "chuleta de pescado",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 107.65,
+          "total": 968.85
+        }
+      ],
+      "lácteos y huevos": [
+        {
+          "descripcion": "leche",
+          "unidad": "litro",
+          "cantidad": 30.0,
+          "precio_unitario": 40.47,
+          "total": 1214.1
+        },
+        {
+          "descripcion": "huevos",
+          "unidad": "docena",
+          "cantidad": 7.0,
+          "precio_unitario": 73.6,
+          "total": 515.2
+        },
+        {
+          "descripcion": "queso seco",
+          "unidad": "libra",
+          "cantidad": 9.0,
+          "precio_unitario": 105.75,
+          "total": 951.75
+        }
+      ],
+      "cereales": [
+        {
+          "descripcion": "tortilla",
+          "unidad": "libra",
+          "cantidad": 57.0,
+          "precio_unitario": 23.91,
+          "total": 1362.87
+        },
+        {
+          "descripcion": "pinolillo",
+          "unidad": "libra",
+          "cantidad": 10.0,
+          "precio_unitario": 41.04,
+          "total": 410.4
+        },
+        {
+          "descripcion": "pastas alimenticias",
+          "unidad": "libra",
+          "cantidad": 5.0,
+          "precio_unitario": 45.5,
+          "total": 227.5
+        },
+        {
+          "descripcion": "pan",
+          "unidad": "libra",
+          "cantidad": 27.0,
+          "precio_unitario": 31.63,
+          "total": 854.01
+        }
+      ],
+      "perecederos": [
+        {
+          "descripcion": "tomate de cocinar",
+          "unidad": "libra",
+          "cantidad": 14.0,
+          "precio_unitario": 31.0,
+          "total": 434.0
+        },
+        {
+          "descripcion": "cebolla blanca",
+          "unidad": "libra",
+          "cantidad": 8.0,
+          "precio_unitario": 57.49,
+          "total": 459.92
+        },
+        {
+          "descripcion": "papas",
+          "unidad": "libra",
+          "cantidad": 15.0,
+          "precio_unitario": 39.37,
+          "total": 590.55
+        },
+        {
+          "descripcion": "ayote",
+          "unidad": "libra",
+          "cantidad": 32.0,
+          "precio_unitario": 11.67,
+          "total": 373.44
+        },
+        {
+          "descripcion": "chiltoma",
+          "unidad": "libra",
+          "cantidad": 3.0,
+          "precio_unitario": 58.86,
+          "total": 176.58
+        },
+        {
+          "descripcion": "plátano verde",
+          "unidad": "libra",
+          "cantidad": 16.0,
+          "precio_unitario": 15.43,
+          "total": 246.88
+        },
+        {
+          "descripcion": "naranja",
+          "unidad": "libra",
+          "cantidad": 46.0,
+          "precio_unitario": 12.71,
+          "total": 584.66
+        },
+        {
+          "descripcion": "repollo",
+          "unidad": "libra",
+          "cantidad": 2.0,
+          "precio_unitario": 11.06,
+          "total": 22.12
+        }
+      ],
+      "usos del hogar": [
+        {
+          "descripcion": "jabón de lavar ropa",
+          "unidad": "unidad",
+          "cantidad": 12.55,
+          "precio_unitario": 27.24,
+          "total": 341.862
+        },
+        {
+          "descripcion": "detergente en polvo",
+          "unidad": "bolsita de 40 gramos",
+          "cantidad": 27.97,
+          "precio_unitario": 3.941329338,
+          "total": 110.2389816
+        },
+        {
+          "descripcion": "pasta dental",
+          "unidad": "unidad de 115 grs",
+          "cantidad": 2.13,
+          "precio_unitario": 47.35,
+          "total": 100.8555
+        },
+        {
+          "descripcion": "fósforos",
+          "unidad": "cajita de 40 cerillos",
+          "cantidad": 10.87,
+          "precio_unitario": 2.54,
+          "total": 27.6098
+        },
+        {
+          "descripcion": "escoba",
+          "unidad": "unidad",
+          "cantidad": 1.22,
+          "precio_unitario": 77.75,
+          "total": 94.855
+        },
+        {
+          "descripcion": "papel higiénico",
+          "unidad": "rollos",
+          "cantidad": 10.71,
+          "precio_unitario": 21.07,
+          "total": 225.6597
+        },
+        {
+          "descripcion": "jabón de baño",
+          "unidad": "unidad",
+          "cantidad": 4.67,
+          "precio_unitario": 11.05,
+          "total": 51.6035
+        },
+        {
+          "descripcion": "toallas sanitarias",
+          "unidad": "bolsa de 10 unid",
+          "cantidad": 2.21,
+          "precio_unitario": 29.06,
+          "total": 64.2226
+        },
+        {
+          "descripcion": "desodorante nacional",
+          "unidad": "unidad",
+          "cantidad": 1.9,
+          "precio_unitario": 63.63,
+          "total": 120.897
+        },
+        {
+          "descripcion": "cepillo dental",
+          "unidad": "unidad",
+          "cantidad": 2.49,
+          "precio_unitario": 20.58,
+          "total": 51.2442
+        },
+        {
+          "descripcion": "alquiler",
+          "unidad": "valor (c$) mensual",
+          "cantidad": 1.0,
+          "precio_unitario": 900.0,
+          "total": 900.0
+        },
+        {
+          "descripcion": "gas butano",
+          "unidad": "25 libras",
+          "cantidad": 1.0,
+          "precio_unitario": 436.0,
+          "total": 436.0
+        },
+        {
+          "descripcion": "luz eléctrica",
+          "unidad": "kwh",
+          "cantidad": 100.0,
+          "precio_unitario": 3.2454565,
+          "total": 324.54565
+        },
+        {
+          "descripcion": "agua",
+          "unidad": "galones",
+          "cantidad": 5292.0,
+          "precio_unitario": 0.031198812,
+          "total": 165.1041116
+        },
+        {
+          "descripcion": "transporte",
+          "unidad": "pasaje",
+          "cantidad": 240.0,
+          "precio_unitario": 2.5,
+          "total": 600.0
+        }
+      ],
+      "vestuario hombres y niños mayores de 10 años": [
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.621290101,
+          "precio_unitario": 529.66,
+          "total": 329.072515
+        },
+        {
+          "descripcion": "camisa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.660003701,
+          "precio_unitario": 232.21,
+          "total": 153.2594593
+        },
+        {
+          "descripcion": "calzoncillos",
+          "unidad": "unidad",
+          "cantidad": 1.565018933,
+          "precio_unitario": 70.03,
+          "total": 109.5982759
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.319879807,
+          "precio_unitario": 39.25,
+          "total": 51.80528244
+        },
+        {
+          "descripcion": "zapato  de cuero natural (mocasin, acordonado, cerrado, etc.)",
+          "unidad": "par",
+          "cantidad": 0.432211304,
+          "precio_unitario": 602.65,
+          "total": 260.4721422
+        }
+      ],
+      "vestuario mujeres y niñas mayores de 10a os": [
+        {
+          "descripcion": "blusa manga corta",
+          "unidad": "unidad",
+          "cantidad": 0.66,
+          "precio_unitario": 194.37,
+          "total": 128.2842
+        },
+        {
+          "descripcion": "pantalón largo de tela de jeans",
+          "unidad": "unidad",
+          "cantidad": 0.51,
+          "precio_unitario": 558.9,
+          "total": 285.039
+        },
+        {
+          "descripcion": "vestido entero",
+          "unidad": "unidad",
+          "cantidad": 0.5,
+          "precio_unitario": 317.56,
+          "total": 158.78
+        },
+        {
+          "descripcion": "calzones/ bikinis",
+          "unidad": "unidad",
+          "cantidad": 1.23,
+          "precio_unitario": 61.41,
+          "total": 75.5343
+        },
+        {
+          "descripcion": "brassier/ sostén",
+          "unidad": "unidad",
+          "cantidad": 0.97,
+          "precio_unitario": 89.31,
+          "total": 86.6307
+        },
+        {
+          "descripcion": "sandalias de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.44,
+          "precio_unitario": 304.09,
+          "total": 133.7996
+        }
+      ],
+      "vestuario de niños y niñas menores de 10 años": [
+        {
+          "descripcion": "traje completo",
+          "unidad": "unidad",
+          "cantidad": 0.501964508,
+          "precio_unitario": 424.2,
+          "total": 212.9333442
+        },
+        {
+          "descripcion": "calzones",
+          "unidad": "unidad",
+          "cantidad": 1.432636554,
+          "precio_unitario": 40.87,
+          "total": 58.55185597
+        },
+        {
+          "descripcion": "calcetines",
+          "unidad": "par",
+          "cantidad": 1.388284674,
+          "precio_unitario": 32.39,
+          "total": 44.96654058
+        },
+        {
+          "descripcion": "zapato de cuero sintético",
+          "unidad": "par",
+          "cantidad": 0.447132231,
+          "precio_unitario": 418.17,
+          "total": 186.977285
+        }
+      ]
+    },
+    "totales": [
+      {
+        "concepto": "total alimentos",
+        "total": 14369.41
+      },
+      {
+        "concepto": "total usos del hogar",
+        "total": 3614.698043
+      },
+      {
+        "concepto": "total vestuario",
+        "total": 2275.704501
+      },
+      {
+        "concepto": "total canasta básica",
+        "total": 20259.81254
+      }
+    ]
+  }
+}
